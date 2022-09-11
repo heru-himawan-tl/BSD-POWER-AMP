@@ -7,6 +7,7 @@
   (title_block
     (title "1300 WATTS RMS CLASS-TD\\nAUDIO POWER AMPLIFIER\\nFOR 4-OHMS LOUDSPEAKER")
     (date "2022-09-11")
+    (company "BSD POWER AMP")
   )
 
   (lib_symbols
