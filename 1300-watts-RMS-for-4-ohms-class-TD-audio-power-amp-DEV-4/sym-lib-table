@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MATRIX_1.4")(type "KiCad")(uri "${KIPRJMOD}/SCH_LIB/MATRIX_1.4.kicad_sym")(options "")(descr ""))
+)
