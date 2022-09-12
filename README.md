@@ -31,6 +31,10 @@ USE OR PERFORMANCE OF THIS WORKS.
 
 ## Download The Design Bundle
 
+Download the design bundle by follow this hyperlink:
+
+[https://github.com/heru-himawan-tl/BSD-POWER-AMP/archive/refs/heads/main.zip](https://github.com/heru-himawan-tl/BSD-POWER-AMP/archive/refs/heads/main.zip)
+
 The bundle of design contains schematics in in [KiCad](https://www.kicad.org/)
 V. 6.x. format, complete with some symbol models & footprint models. 
 You can open to view or edit the schematics by using [KiCad EDA](https://www.kicad.org/).
