@@ -44,7 +44,7 @@ You can open to view or edit the schematics by using [KiCad EDA](https://www.kic
 ## PCB Design Files
 
 To get the PCB design files (in KiCad format, Gerber format, and PDF format),
-please contact the developer e-mail: heru.htl.83 at gmail.com
+please contact the developer by e-mail to: heru.htl.83 at gmail.com
 
 ## Online Schematics
 
