@@ -8,6 +8,8 @@ implement class-TD (Tracking Digital) stepper system to gain better efficiency
 and durability, especially these designed to operate with symmetrical dual
 power supply voltage at about 100V DC or above.
 
+![https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/main-power-amp-pcb.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/main-power-amp-pcb.png)
+
 ## About The Name of "BSD POWER AMP"
 "BSD" itself is an abbreviation of "Berkeley Software Distribution". However,
 "BSD POWER AMP" is nothing to do with Berkeley University of California in
@@ -42,5 +44,5 @@ You can open to view or edit the schematics by using [KiCad EDA](https://www.kic
 ## Online Schematics
 
 Online schematics are available below. Click on each to get full resolution.
-![alt text](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-1.png)
+![1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-1.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-1.png)
 
