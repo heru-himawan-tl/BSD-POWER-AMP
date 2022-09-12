@@ -29,7 +29,11 @@ RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
 NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE
 USE OR PERFORMANCE OF THIS WORKS.
 
+## Download The Design Bundle
 
+The bundle of design contains schematics in in [KiCad](https://www.kicad.org/)
+V. 6.x. format, complete with some symbol models & footprint models. 
+You can open to view or edit the schematics by using [KiCad EDA](https://www.kicad.org/).
 ## The Schematics
 ![alt text](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-1.png)
 
