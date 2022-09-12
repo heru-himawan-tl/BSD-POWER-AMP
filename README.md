@@ -41,6 +41,11 @@ The bundle of design contains schematics in [KiCad](https://www.kicad.org/)
 V. 6.x. format, complete with some symbol models & footprint models. 
 You can open to view or edit the schematics by using [KiCad EDA](https://www.kicad.org/).
 
+## PCB Design Files
+
+To get the PCB design files (in KiCad format, Gerber format, and PDF format),
+please contact the developer e-mail: heru.htl.83 at gmail.com
+
 ## Online Schematics
 
 Online schematics are available below. Click on each to get full resolution.
