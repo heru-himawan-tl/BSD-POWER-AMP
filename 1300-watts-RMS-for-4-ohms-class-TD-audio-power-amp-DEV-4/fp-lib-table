@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name MATRIX_1.4)(type KiCad)(uri ${KIPRJMOD}/PCB_LIB/MATRIX_1.4.pretty)(options "")(descr ""))
+  (lib (name "BSD_POWER_AMP")(type "KiCad")(uri "${KIPRJMOD}/PCB_LIB/BSD_POWER_AMP.pretty")(options "")(descr ""))
 )
