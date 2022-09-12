@@ -8,8 +8,6 @@ implement class-TD (Tracking Digital) stepper system to gain better efficiency
 and durability, especially these designed to operate with symmetrical dual
 power supply voltage at about 100V DC or above.
 
-![https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/main-power-amp-pcb.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/main-power-amp-pcb.png)
-
 ## About The Name of "BSD POWER AMP"
 "BSD" itself is an abbreviation of "Berkeley Software Distribution". However,
 "BSD POWER AMP" is nothing to do with Berkeley University of California in
@@ -45,6 +43,8 @@ You can open to view or edit the schematics by using [KiCad EDA](https://www.kic
 
 To get the PCB design files (in KiCad format, Gerber format, and PDF format),
 please contact the developer by e-mail to: heru.htl.83 at gmail.com
+
+![https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/main-power-amp-pcb.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/main-power-amp-pcb.png)
 
 ## Online Schematics
 
