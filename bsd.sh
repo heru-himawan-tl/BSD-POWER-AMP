@@ -35,8 +35,6 @@ if [ ! -d "$DEST_PRIV" ]; then
     mkdir -p $DEST_PRIV
 fi
 
-PNG_SCHEMATICS=
-
 if [ "$PRIVATE" = "NO" ]; then
     if [ ! -d "$DEST" ]; then
         mkdir -p $DEST
