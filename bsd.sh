@@ -82,29 +82,32 @@ fi
 
 cd $BASE
 
-cat ../BSD-POWER-AMP-README.md > README.md
-SCH_PNG=
+if [ -f ../BSD-POWER-AMP-README.md ]; then
+    cat ../BSD-POWER-AMP-README.md > README.md
+    
+    SCH_PNG=
 
-for f in $(find $1); do
-    is_git=$(echo "$f" | awk '/.*\.git.*/')
-    if [ "$is_git" = "" ]; then
-        pdf=$(echo "$f" | awk '/.*(POWER-AMP|OVERLOAD-PROTECTOR)\.pdf$/')
-        if [ "$pdf" != "" ]; then
-            echo "============================================="
-            echo "Found power amplifier schematic in PDF: $f"
-            echo "============================================="
-            rm -f $f.png
-            pdftocairo -png $f $f
-            nf="$f-$(date "+%Y-%m-%d-%H-%M-%S").png"
-            mv $f-1.png $nf 
-            SCH_PNG="![$(basename $nf)](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/$nf) $SCH_PNG"
+    for f in $(find $1); do
+        is_git=$(echo "$f" | awk '/.*\.git.*/')
+        if [ "$is_git" = "" ]; then
+            pdf=$(echo "$f" | awk '/.*(POWER-AMP|OVERLOAD-PROTECTOR)\.pdf$/')
+            if [ "$pdf" != "" ]; then
+                echo "============================================="
+                echo "Found power amplifier schematic in PDF: $f"
+                echo "============================================="
+                rm -f $f.png
+                pdftocairo -png $f $f
+                nf="$f-$(date "+%Y-%m-%d-%H-%M-%S").png"
+                mv $f-1.png $nf 
+                SCH_PNG="![$(basename $nf)](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/$nf) $SCH_PNG"
+            fi
         fi
-    fi
-done
+    done
 
-for png in $(echo $SCH_PNG); do
-    echo "$png" >> README.md
-done
+    for png in $(echo $SCH_PNG); do
+        echo "$png" >> README.md
+    done
+fi
 
 cp -af ../bsd.sh .
 
