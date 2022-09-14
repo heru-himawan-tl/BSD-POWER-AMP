@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/heru-aam/Documents/EDA/POWER-AMP-DESIGN/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4.kicad_sch")
-    (date "Wed 14 Sep 2022 10:03:37 AM WIB")
+    (date "Wed 14 Sep 2022 01:11:17 PM WIB")
     (tool "Eeschema 6.0.7-1.fc36")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -157,7 +157,7 @@
       (tstamps "bc9dcb77-bfe8-4993-afe8-03b36f4002cb"))
     (comp (ref "C404")
       (value "220pF")
-      (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_STD")
+      (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
