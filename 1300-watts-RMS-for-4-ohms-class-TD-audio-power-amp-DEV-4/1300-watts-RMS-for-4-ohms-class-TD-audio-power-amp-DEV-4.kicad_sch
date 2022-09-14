@@ -804,7 +804,7 @@
       (reference "CNT904") (unit 1) (value "Molex AE-6410-02A") (footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b40794f7-7a86-4f3b-9128-03fb06d6dd0c"
-      (reference "D401") (unit 1) (value "1N4730") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D401") (unit 1) (value "1N4730") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/40370916-c57e-4a00-a003-ea2d76c816ec"
       (reference "D601") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")

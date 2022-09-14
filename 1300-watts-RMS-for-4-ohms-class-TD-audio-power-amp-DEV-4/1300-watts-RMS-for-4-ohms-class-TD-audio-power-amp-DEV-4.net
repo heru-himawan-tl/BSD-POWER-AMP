@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/heru-aam/Documents/EDA/POWER-AMP-DESIGN/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4.kicad_sch")
-    (date "Wed 14 Sep 2022 01:11:17 PM WIB")
+    (date "Wed 14 Sep 2022 04:48:23 PM WIB")
     (tool "Eeschema 6.0.7-1.fc36")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -397,7 +397,7 @@
       (tstamps "57564e5c-f8dc-4637-b0c0-8b7b7cfa6e0c"))
     (comp (ref "D401")
       (value "1N4730")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4730")
