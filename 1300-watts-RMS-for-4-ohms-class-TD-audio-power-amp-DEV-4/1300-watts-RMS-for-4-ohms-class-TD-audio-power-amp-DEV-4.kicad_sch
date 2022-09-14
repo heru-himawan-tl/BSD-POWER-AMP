@@ -5,7 +5,9 @@
   (paper "A3")
 
   (title_block
-    (date "2022-09-07")
+    (title "1300 WATTS RMS CLASS-TD\\nAUDIO POWER AMPLIFIER\\nFOR 4-OHMS LOUDSPEAKER")
+    (date "2022-09-14")
+    (company "BSD POWER AMP")
   )
 
   (lib_symbols
@@ -161,7 +163,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1365b1b0-8115-49f3-b9e5-34a5c4243b42)
   )
-  (wire (pts (xy 165.1 73.66) (xy 165.1 76.2))
+  (wire (pts (xy 177.8 73.66) (xy 177.8 76.2))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 13851b39-0314-489d-8afe-bbcefa379b1a)
   )
@@ -217,7 +219,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid a3b59175-dc8b-45af-8cbd-a039725f60b4)
   )
-  (wire (pts (xy 165.1 63.5) (xy 165.1 66.04))
+  (wire (pts (xy 177.8 63.5) (xy 177.8 66.04))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid a8a3a1a4-17bf-473a-bba9-cce15b775a44)
   )
@@ -295,10 +297,10 @@
       (effects (font (size 1.016 1.016)) (justify left) hide)
     )
   )
-  (global_label "LOAD_OUT" (shape bidirectional) (at 165.1 76.2 180) (fields_autoplaced)
+  (global_label "LOAD_OUT" (shape bidirectional) (at 177.8 76.2 180) (fields_autoplaced)
     (effects (font (size 1.016 1.016)) (justify right))
     (uuid 82f3b80c-3d2f-47c8-a90f-efd5539f8dfd)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 155.8713 76.1365 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 168.5713 76.1365 0)
       (effects (font (size 1.016 1.016)) (justify right) hide)
     )
   )
@@ -344,10 +346,10 @@
       (effects (font (size 1.016 1.016)) (justify right) hide)
     )
   )
-  (global_label "VPOUT" (shape bidirectional) (at 165.1 63.5 180) (fields_autoplaced)
+  (global_label "VPOUT" (shape bidirectional) (at 177.8 63.5 180) (fields_autoplaced)
     (effects (font (size 1.016 1.016)) (justify right))
     (uuid e59d5532-dd76-4a8c-88a2-87d7de97595a)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 158.5323 63.4365 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 171.2323 63.4365 0)
       (effects (font (size 1.016 1.016)) (justify right) hide)
     )
   )
@@ -377,15 +379,15 @@
     (pin "1" (uuid fce52b4a-814c-47bd-931b-ec74a70d9322))
   )
 
-  (symbol (lib_id "Device:R") (at 165.1 69.85 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 177.8 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 117b642e-f6bd-49cd-a086-229f9edd390c)
-    (property "Reference" "R_TMPL1" (id 0) (at 171.45 68.58 0))
-    (property "Value" "4" (id 1) (at 171.45 71.12 0))
-    (property "Footprint" "" (id 2) (at 163.322 69.85 90)
+    (property "Reference" "R_TMPL1" (id 0) (at 184.15 68.58 0))
+    (property "Value" "4" (id 1) (at 184.15 71.12 0))
+    (property "Footprint" "" (id 2) (at 176.022 69.85 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 165.1 69.85 0)
+    (property "Datasheet" "~" (id 3) (at 177.8 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d6a8ba2e-f97a-47f3-b801-647267387bd7))
@@ -712,7 +714,7 @@
       (reference "C403") (unit 1) (value "220uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D10mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e370dfcc-9f76-4e9f-b804-37aa2ef1a112"
-      (reference "C404") (unit 1) (value "220pF") (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_STD")
+      (reference "C404") (unit 1) (value "220pF") (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d6b7b0b4-8fe5-452b-b66a-b3c36aa6eb0d"
       (reference "C405") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:0.1uF_250V_Vishay_Roederstein_MKT_1822")
@@ -879,17 +881,20 @@
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/fa83324e-807d-4693-b517-6fe6dc063b62"
       (reference "D710") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
     )
-    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b3681fe7-23f5-414a-ab07-524bb74dea09"
-      (reference "D711") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
+    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0f7e83b4-69f9-4b5d-a5e8-ad28ac65ac17"
+      (reference "D711") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
     )
-    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e1fbeb27-3d8b-4b65-bbb7-5a181ef7e225"
+    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b3681fe7-23f5-414a-ab07-524bb74dea09"
       (reference "D712") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
     )
-    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ebf32c89-e38f-47da-95ce-223fd4b2983c"
+    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e1fbeb27-3d8b-4b65-bbb7-5a181ef7e225"
       (reference "D713") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
     )
-    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2ae6e079-ce2f-428f-86e2-fc7f1d853db6"
+    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ebf32c89-e38f-47da-95ce-223fd4b2983c"
       (reference "D714") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
+    )
+    (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2ae6e079-ce2f-428f-86e2-fc7f1d853db6"
+      (reference "D715") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/7628cefb-bc30-44e5-b196-188fac10705b"
       (reference "D901") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
@@ -1231,7 +1236,7 @@
       (reference "R917") (unit 1) (value "10k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/22787fb3-ae1e-45f0-9312-d377c2215691"
-      (reference "R4021") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R4021") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/197ac68b-ed8f-4043-abd9-ea232d082a05"
       (reference "R4031") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
@@ -1252,16 +1257,16 @@
       (reference "R4062") (unit 1) (value "2.2k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e2795b80-5bf3-42b8-86ce-f4165f251207"
-      (reference "R4071") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4071") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/7c077db9-e3ae-45c7-9f41-818cce1f081f"
-      (reference "R4072") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4072") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3471100c-9d09-45c1-9946-fbcf60a3b973"
-      (reference "R4073") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4073") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/30844031-f67c-4282-911a-7f14966a7999"
-      (reference "R4074") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4074") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/54087f32-dabd-4e81-b121-c8a4fb06667d"
       (reference "R4081") (unit 1) (value "560") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
