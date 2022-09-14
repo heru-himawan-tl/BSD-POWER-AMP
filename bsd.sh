@@ -40,7 +40,7 @@ if [ "$PRIVATE" = "NO" ]; then
         mkdir -p $DEST
     fi
     for f in $(find $1); do
-        hf=$(echo "$f" | awk '/(\.(gbr|gvp|kicad_pcb|drl|ps|git|raw|log)|preview|report\.txt|.*-bak|.*-backup.*|.*\.bak|ANALYSIS.*\.net|.*\.kicad_sch-.*|.*auto_saved.*|.*-F_.*|.*-B_.*|.*drl.*|.*_Drawings.*|.*_Echo.*)/')
+        hf=$(echo "$f" | awk '/(\.(gbr|gvp|kicad_pcb|drl|ps|git|raw|log)|preview|report\.txt|.*-bak|.*-backup.*|.*\.bak|ANALYSIS.*\.net|.*\.kicad_sch-.*|.*auto_saved.*|.*-F_.*|.*-B_.*|.*drl.*|.*_Drawings.*|.*_Eco.*|.*_Cuts.*|.*-Margin.*)/')
         if [ "$hf" = "" ]; then
             dn=$(dirname $f)
             if [ -d "$f" ]; then
