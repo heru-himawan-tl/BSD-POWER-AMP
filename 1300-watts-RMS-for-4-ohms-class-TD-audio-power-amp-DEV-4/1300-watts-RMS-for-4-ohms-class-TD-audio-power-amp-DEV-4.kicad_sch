@@ -963,16 +963,16 @@
       (reference "Q404") (unit 1) (value "MPSA92") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/37e61b71-d503-4c76-a9f8-0e574364eafd"
-      (reference "Q405") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q405") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/5dc392d1-086a-44fe-8e44-e8725f9ed8cb"
-      (reference "Q406") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q406") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/7848c686-ea22-4cdc-b0ca-842e322fc446"
-      (reference "Q407") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q407") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-126-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0b40bac3-5be8-4039-be44-ab4a00caf621"
-      (reference "Q408") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q408") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/8c837e86-7d89-47b7-966f-9738fcf65b8d"
       (reference "Q409") (unit 1) (value "MJE15032") (footprint "BSD_POWER_AMP:TO-220-MIRRORED")
@@ -990,10 +990,10 @@
       (reference "Q601") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/cb97e24a-fea2-42fe-8bb8-b4ef54b71798"
-      (reference "Q602") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q602") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ba1edcd2-d3ac-4eac-83f5-eaad365e8890"
-      (reference "Q603") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q603") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b707bf55-afca-49ad-b625-c78d62c904aa"
       (reference "Q604") (unit 1) (value "MJE15032") (footprint "BSD_POWER_AMP:TO-220-MIRRORED")
@@ -1011,22 +1011,22 @@
       (reference "Q608") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c4bbe018-4b9f-4044-979d-566f0d2c68ce"
-      (reference "Q609") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q609") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/a51eda72-8cf8-448c-86a4-f2daf42d08d7"
       (reference "Q610") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ae215db0-d804-4ebb-a9ce-cfba0a83720e"
-      (reference "Q611") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q611") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e21bb9d2-cf3f-49ee-bb66-61f63570e949"
       (reference "Q701") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c458a437-14bf-45d5-9c28-992488b83854"
-      (reference "Q702") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q702") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/8146fa02-c73f-47b8-8010-1278a4184e7b"
-      (reference "Q703") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q703") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/4b6a8deb-6e7d-4f0e-8184-16ae71a3f489"
       (reference "Q704") (unit 1) (value "MJE15033") (footprint "BSD_POWER_AMP:TO-220-MIRRORED")
@@ -1044,13 +1044,13 @@
       (reference "Q708") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/757b4a3a-a01d-49d2-bb47-be9cd48818fe"
-      (reference "Q709") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q709") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/38c4f138-8c6c-4100-88a3-002504719693"
       (reference "Q710") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f144b782-e753-4e35-a82a-dfb994496523"
-      (reference "Q711") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
+      (reference "Q711") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-126-3_Vertical")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/6c996c36-dedd-4dfd-bd08-0dc5729b26c6"
       (reference "Q901") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
