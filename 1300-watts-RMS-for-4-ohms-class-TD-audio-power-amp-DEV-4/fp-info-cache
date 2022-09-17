@@ -1,4 +1,4 @@
-96593463309941
+99920306929672
 BSD_POWER_AMP
 0.01uF_250V_Vishay_Roederstein_MKT_1818
 
@@ -153,6 +153,20 @@ DIODE_ZENER_AXIAL_SMALL_SI
 0
 2
 2
+BSD_POWER_AMP
+DIP-8_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+BSD_POWER_AMP
+DIP-8_W7.62mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+8
+8
 BSD_POWER_AMP
 DIP4
 

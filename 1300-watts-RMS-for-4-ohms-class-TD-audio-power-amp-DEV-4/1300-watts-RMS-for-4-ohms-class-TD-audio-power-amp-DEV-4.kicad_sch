@@ -1353,13 +1353,13 @@
       (reference "S901") (unit 1) (value "sw1 ON") (footprint "BSD_POWER_AMP:Relay_SPDT_RAYEX-L90")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/7f35041e-fee9-4575-91fb-bfa9df168056"
-      (reference "U901") (unit 1) (value "RC4558") (footprint "BSD_POWER_AMP:DIP8")
+      (reference "U901") (unit 1) (value "RC4558") (footprint "BSD_POWER_AMP:DIP-8_W7.62mm")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/a457be41-f854-4ce6-9e26-0eb2ee284dc4"
-      (reference "U901") (unit 2) (value "RC4558") (footprint "BSD_POWER_AMP:DIP8")
+      (reference "U901") (unit 2) (value "RC4558") (footprint "BSD_POWER_AMP:DIP-8_W7.62mm")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/9dd1254d-59cd-4cc2-ad05-30ff2fb2fc40"
-      (reference "U901") (unit 3) (value "RC4558") (footprint "BSD_POWER_AMP:DIP8")
+      (reference "U901") (unit 3) (value "RC4558") (footprint "BSD_POWER_AMP:DIP-8_W7.62mm")
     )
     (path "/bdfbcee0-2073-4169-808a-f963869357cd"
       (reference "V101") (unit 1) (value "dc 0 ac 1.44 sin(0 1.44 1k 0 0)") (footprint "")
