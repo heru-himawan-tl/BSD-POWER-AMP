@@ -708,28 +708,28 @@
       (reference "C401") (unit 1) (value "10uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D7.62mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/56a4167d-0f3b-4627-96df-72bce112277c"
-      (reference "C402") (unit 1) (value "220pF") (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_STD")
+      (reference "C402") (unit 1) (value "220pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/bc9dcb77-bfe8-4993-afe8-03b36f4002cb"
       (reference "C403") (unit 1) (value "220uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D10mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e370dfcc-9f76-4e9f-b804-37aa2ef1a112"
-      (reference "C404") (unit 1) (value "220pF") (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (reference "C404") (unit 1) (value "220pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d6b7b0b4-8fe5-452b-b66a-b3c36aa6eb0d"
-      (reference "C405") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:0.1uF_250V_Vishay_Roederstein_MKT_1822")
+      (reference "C405") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c359ed99-6169-4022-97ef-b968f2f253cd"
-      (reference "C406") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:0.1uF_250V_Vishay_Roederstein_MKT_1822")
+      (reference "C406") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f76ee19c-74ca-477c-931e-07738161ae94"
-      (reference "C407") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:0.1uF_250V_Vishay_Roederstein_MKT_1822")
+      (reference "C407") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/64492a45-674b-47ae-a602-a595ef92325a"
       (reference "C408") (unit 1) (value "10uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D10mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3d6975ef-8c8e-4dcf-902b-931e47fd9587"
-      (reference "C409") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:0.1uF_250V_Vishay_Roederstein_MKT_1822")
+      (reference "C409") (unit 1) (value "0.1uF") (footprint "BSD_POWER_AMP:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/db531cb2-38f6-4632-bbfc-ae35d1b916a4"
       (reference "C410") (unit 1) (value "10uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D10mm")
@@ -738,25 +738,25 @@
       (reference "C601") (unit 1) (value "10uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D10mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/604e7dd5-59b1-44fb-99f4-d32b78b7ce8c"
-      (reference "C602") (unit 1) (value "330pF") (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (reference "C602") (unit 1) (value "330pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3f3fdbed-19de-46fc-b024-b68c2f7ab49c"
       (reference "C603") (unit 1) (value "2200pF") (footprint "BSD_POWER_AMP:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d6b20e4e-09ab-4f22-befa-071262d50c93"
-      (reference "C604") (unit 1) (value "1uF") (footprint "BSD_POWER_AMP:1uF_250V_Vishay_Roederstein_MKT_1822")
+      (reference "C604") (unit 1) (value "1uF") (footprint "BSD_POWER_AMP:C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/9de80bf3-e02c-4a13-a994-5c50d6bc0de6"
       (reference "C701") (unit 1) (value "10uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D10mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/63c278fb-3087-4bdf-aae4-5471fb80d201"
-      (reference "C702") (unit 1) (value "330pF") (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (reference "C702") (unit 1) (value "330pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/8ce1e5ec-912c-4b10-9b29-7981349ef175"
       (reference "C703") (unit 1) (value "2200pF") (footprint "BSD_POWER_AMP:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/df76a547-3775-4f54-ac3d-e871b1590c15"
-      (reference "C704") (unit 1) (value "1uF") (footprint "BSD_POWER_AMP:1uF_250V_Vishay_Roederstein_MKT_1822")
+      (reference "C704") (unit 1) (value "1uF") (footprint "BSD_POWER_AMP:C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/d74a9d09-793d-4707-a7e0-3303cb51a4fe"
       (reference "C901") (unit 1) (value "47uF") (footprint "BSD_POWER_AMP:CAPACITOR_AE_D7.62mm")
@@ -804,25 +804,25 @@
       (reference "CNT904") (unit 1) (value "Molex AE-6410-02A") (footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b40794f7-7a86-4f3b-9128-03fb06d6dd0c"
-      (reference "D401") (unit 1) (value "1N4730") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D401") (unit 1) (value "1N4730") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/40370916-c57e-4a00-a003-ea2d76c816ec"
-      (reference "D601") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D601") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/deb70ead-20fb-409b-b3ee-1b32de9d708e"
-      (reference "D602") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D602") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/024bee1f-0384-4882-8a61-190051b78437"
-      (reference "D603") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D603") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/31afc8b3-8f87-4a70-b678-7ddd381c91f5"
-      (reference "D604") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D604") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/54074545-e925-421f-9b26-99a0b2cb0b0d"
-      (reference "D605") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D605") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/a433a16c-f502-4218-bc4a-a702456f5ae7"
-      (reference "D606") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D606") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d1082dde-04c4-431d-989e-b28911d0c786"
       (reference "D607") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC")
@@ -831,13 +831,13 @@
       (reference "D608") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/dd1ceac7-ea12-4b8a-a8fc-2892a261d7a8"
-      (reference "D609") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D609") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/360827fe-4785-4a06-a20c-ae59c40c7186"
-      (reference "D610") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D610") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/562da59c-e356-4bd0-847d-953e7d3c2aca"
-      (reference "D611") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D611") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/321639d6-103f-4212-9f20-50547ceb274d"
       (reference "D612") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
@@ -852,22 +852,22 @@
       (reference "D615") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d3bb6fdd-c4f2-45d7-8f4b-d3848664e7a7"
-      (reference "D701") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D701") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2aa6a9e7-6d36-40dd-87d9-dcac4c679251"
-      (reference "D702") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D702") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ba828de8-4c70-4c7c-82c0-4a05cbb84cf4"
-      (reference "D703") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D703") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2635f3f9-9384-4bce-b322-870b4b90837c"
-      (reference "D704") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D704") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/cbc380dc-e5fb-4169-8467-0c7dbb8becef"
-      (reference "D705") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D705") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0e2402fb-4953-4ae5-9f50-467da0d3d786"
-      (reference "D706") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D706") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ee9644b3-4dfa-4b55-a69c-d1d96cf2e458"
       (reference "D707") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC")
@@ -876,13 +876,13 @@
       (reference "D708") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0e8de77f-49b3-4a9a-9ce7-77677c9a4826"
-      (reference "D709") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D709") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/fa83324e-807d-4693-b517-6fe6dc063b62"
-      (reference "D710") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D710") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0f7e83b4-69f9-4b5d-a5e8-ad28ac65ac17"
-      (reference "D711") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D711") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b3681fe7-23f5-414a-ab07-524bb74dea09"
       (reference "D712") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
@@ -897,46 +897,46 @@
       (reference "D715") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:DIODE_POWER_TO-220AC-MIRRORED")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/7628cefb-bc30-44e5-b196-188fac10705b"
-      (reference "D901") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D901") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/59f3ea42-b364-4d74-9185-e31129e90696"
-      (reference "D902") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D902") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/ef7969c9-b4ca-4efe-9f20-4d3a2030caa1"
-      (reference "D903") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (reference "D903") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/55c8d398-7e04-4e3e-a5c2-53f4d2fd3efc"
-      (reference "D904") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D904") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/d44ad720-8b5f-424f-a038-7b8d6b7c190e"
-      (reference "D905") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D905") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/f38dd57c-2b78-45fd-8d47-5d1ea32f6266"
-      (reference "D906") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D906") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/4356ea87-f9f8-4c81-a570-dda8cc3800b3"
-      (reference "D907") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D907") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/27e9f489-6971-445e-a04b-4f37ba30e127"
-      (reference "D908") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D908") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/b2570e8a-b01c-4717-b0df-4f0743359656"
-      (reference "D909") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D909") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/92deff12-322a-49a7-ad70-d70367641e00"
-      (reference "D910") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D910") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/66ae150d-edbe-4b3e-bced-b8a3e2264a12"
-      (reference "D911") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D911") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/56f9f667-c5be-4422-8be4-d39b893ee8ee"
-      (reference "D912") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D912") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/c69672b7-9e9c-42f8-b015-e6b09ee22231"
-      (reference "D913") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (reference "D913") (unit 1) (value "1N4148") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/af0c8c46-6fa0-4094-84e2-feb80f40189e"
-      (reference "D914") (unit 1) (value "1N4002") (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (reference "D914") (unit 1) (value "1N4002") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/7aab689a-7e78-440a-b7ef-3e81f685e540"
       (reference "D915") (unit 1) (value "LED") (footprint "")
@@ -951,16 +951,16 @@
       (reference "L701") (unit 1) (value "10uH") (footprint "BSD_POWER_AMP:TOROIDAL_INDUCTOR_0077083A7")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2e098990-e2cf-4259-8962-3b05c0b6615b"
-      (reference "Q401") (unit 1) (value "MPSA42") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q401") (unit 1) (value "MPSA42") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/48ef9522-84d0-4f83-924d-e02d07a2752f"
-      (reference "Q402") (unit 1) (value "MPSA42") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q402") (unit 1) (value "MPSA42") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/7c0e9fb6-f5a5-4ba4-b021-cfe2053cef94"
-      (reference "Q403") (unit 1) (value "MPSA92") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q403") (unit 1) (value "MPSA92") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e665f046-64ac-4cb0-ab5d-d86aa16998bc"
-      (reference "Q404") (unit 1) (value "MPSA92") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q404") (unit 1) (value "MPSA92") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/37e61b71-d503-4c76-a9f8-0e574364eafd"
       (reference "Q405") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
@@ -987,7 +987,7 @@
       (reference "Q412") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/87f124ed-5dc1-42e2-b931-23632698abf2"
-      (reference "Q601") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q601") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/cb97e24a-fea2-42fe-8bb8-b4ef54b71798"
       (reference "Q602") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
@@ -1002,25 +1002,25 @@
       (reference "Q605") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/dc60a73a-18a8-4b77-a7b3-8c6b499fa332"
-      (reference "Q606") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q606") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2d9c0590-ee8c-48a4-86d9-8491063b2b73"
-      (reference "Q607") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q607") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e7305fb3-596f-4b62-a6dc-983b9673138e"
-      (reference "Q608") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q608") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c4bbe018-4b9f-4044-979d-566f0d2c68ce"
       (reference "Q609") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/a51eda72-8cf8-448c-86a4-f2daf42d08d7"
-      (reference "Q610") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q610") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ae215db0-d804-4ebb-a9ce-cfba0a83720e"
       (reference "Q611") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e21bb9d2-cf3f-49ee-bb66-61f63570e949"
-      (reference "Q701") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q701") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c458a437-14bf-45d5-9c28-992488b83854"
       (reference "Q702") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
@@ -1035,28 +1035,28 @@
       (reference "Q705") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/7c962d23-9ca8-440e-b76c-937f104171bc"
-      (reference "Q706") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q706") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f0f9e53d-14f0-4384-9248-7df2a009d4aa"
-      (reference "Q707") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q707") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/23ca451f-d9ef-4f93-aa97-6efb9c6876f0"
-      (reference "Q708") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q708") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/757b4a3a-a01d-49d2-bb47-be9cd48818fe"
       (reference "Q709") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-225")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/38c4f138-8c6c-4100-88a3-002504719693"
-      (reference "Q710") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q710") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f144b782-e753-4e35-a82a-dfb994496523"
       (reference "Q711") (unit 1) (value "MJE340") (footprint "BSD_POWER_AMP:TO-225")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/6c996c36-dedd-4dfd-bd08-0dc5729b26c6"
-      (reference "Q901") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q901") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/77c3be76-870b-4ba3-8b45-dd47b0cd1f0a"
-      (reference "Q902") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (reference "Q902") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/9439477d-bc80-4cb8-a9b0-a427283a70ba"
       (reference "Q903") (unit 1) (value "TIP41C") (footprint "BSD_POWER_AMP:TO-220")
@@ -1098,241 +1098,241 @@
       (reference "Q4146") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ab6ca2ad-2e36-4418-93f0-13212283a861"
-      (reference "R401") (unit 1) (value "820") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R401") (unit 1) (value "820") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/88125138-61be-4735-8f28-d63e2cb88571"
-      (reference "R410") (unit 1) (value "2k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R410") (unit 1) (value "2k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/afda0472-c172-484c-b81d-d4e06dc73d95"
-      (reference "R411") (unit 1) (value "680") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R411") (unit 1) (value "680") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/946eaa72-3b29-4f39-94de-53ec7243da6f"
-      (reference "R412") (unit 1) (value "680") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R412") (unit 1) (value "680") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c02f1f44-efd2-4287-9b19-87144aaada6b"
-      (reference "R413") (unit 1) (value "2k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R413") (unit 1) (value "2k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/34f245c6-8f5f-4e62-a9db-bb0361232553"
-      (reference "R420") (unit 1) (value "10") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R420") (unit 1) (value "10") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ad179d69-af05-465c-be56-1d408ec7c6ad"
-      (reference "R601") (unit 1) (value "1.5k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R601") (unit 1) (value "1.5k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e601fb30-708c-4423-8944-6f7ba55fd368"
-      (reference "R602") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R602") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/4ad890e0-0cba-4f53-99ea-194ed02ab0d5"
-      (reference "R603") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R603") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d4473986-d1ab-4d1e-a52e-2e18e220d38c"
-      (reference "R604") (unit 1) (value "470") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R604") (unit 1) (value "470") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/1370b4be-60c3-4247-8649-8ca7b2d89007"
-      (reference "R605") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R605") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/81874cd0-c6ba-4404-a0d8-ac56572812a7"
-      (reference "R606") (unit 1) (value "56") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R606") (unit 1) (value "56") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c1d9d387-977b-4039-8b43-39407063aaeb"
-      (reference "R607") (unit 1) (value "1.5") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R607") (unit 1) (value "1.5") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/31129ed8-5328-4497-b0ce-936178fe557f"
-      (reference "R608") (unit 1) (value "150") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R608") (unit 1) (value "150") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/8f2a91f5-22f2-4e4d-94da-c56b0a1a5c16"
-      (reference "R609") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (reference "R609") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c89dc4c4-e3d6-465d-9678-de9bf2066489"
-      (reference "R610") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (reference "R610") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/32c5d48f-31ed-4356-a9af-2393850043fc"
-      (reference "R611") (unit 1) (value "1.5k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R611") (unit 1) (value "1.5k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/07fed3dc-aeb6-466a-9a1e-8f9e70234b0a"
-      (reference "R612") (unit 1) (value "680") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R612") (unit 1) (value "680") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/a076f44b-3bf4-48f0-9472-88db4f08467a"
-      (reference "R701") (unit 1) (value "1.5k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R701") (unit 1) (value "1.5k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c71a0b81-492c-4b06-9ab0-e7a3b21d532a"
-      (reference "R702") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R702") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/cc45448f-fa6d-4968-a0c4-c4aa9f1c3e94"
-      (reference "R703") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R703") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/9af8ff07-49e1-4e53-9147-4e9ceb7a23e1"
-      (reference "R704") (unit 1) (value "470") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R704") (unit 1) (value "470") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/81d31bad-1c33-4a21-a916-2915f486946c"
-      (reference "R705") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R705") (unit 1) (value "47k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e1a5796b-89c8-40e8-85e9-4d259cf61c1b"
-      (reference "R706") (unit 1) (value "56") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R706") (unit 1) (value "56") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/cbf5f24e-0769-4e02-9863-a33bd5b93c00"
-      (reference "R707") (unit 1) (value "1.5") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R707") (unit 1) (value "1.5") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/be66acde-982b-4e9c-b443-e7ca526eae6e"
-      (reference "R708") (unit 1) (value "150") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R708") (unit 1) (value "150") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d02e02e2-75ed-4f3e-9eed-a68ee1d69cbb"
-      (reference "R709") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (reference "R709") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2f2787b5-592b-4e1d-90b7-00470cdb06ed"
-      (reference "R710") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (reference "R710") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c603788a-7842-499e-b19f-5b34f371be69"
-      (reference "R711") (unit 1) (value "680") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R711") (unit 1) (value "680") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/a8a2cf67-0f43-4406-ad4f-88bffce2f476"
-      (reference "R901") (unit 1) (value "1k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R901") (unit 1) (value "1k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/cfeb191b-920b-4836-b740-ce2d01607667"
-      (reference "R902") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R902") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/b35aa1f3-c577-4fbc-a131-6aa8ada7e9be"
-      (reference "R903") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R903") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/eeed5deb-13c4-4b94-968a-88bef2c0525c"
-      (reference "R904") (unit 1) (value "1k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R904") (unit 1) (value "1k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/39bb5a1f-dcfd-4c8b-bfdf-14cbb74c5eee"
-      (reference "R905") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R905") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/47648d56-6021-401a-88b7-af88310c34c3"
-      (reference "R906") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R906") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/3fb58a50-25e2-445e-9645-2a4453fee9d7"
-      (reference "R907") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R907") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/45bd363c-b12b-4380-8305-a5034538b450"
-      (reference "R908") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R908") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/0c280774-374d-4080-9bb4-fef56c427cd5"
-      (reference "R909") (unit 1) (value "1k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R909") (unit 1) (value "1k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/8893618c-6d32-4c7d-8cda-204946bb9229"
-      (reference "R910") (unit 1) (value "10k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R910") (unit 1) (value "10k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/37b8c003-336e-4d77-8801-76a545b4288b"
-      (reference "R911") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R911") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/914e0ad9-c151-41ce-b834-ecc0a7d9a4e7"
-      (reference "R912") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R912") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/3bf9635b-5513-4bc0-a249-b80389a5a93a"
-      (reference "R913") (unit 1) (value "470") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R913") (unit 1) (value "470") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/9d7fcdf3-bb31-4570-afde-e3a793ddc600"
-      (reference "R914") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R914") (unit 1) (value "15k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/ccd9f860-0436-4a35-a7eb-ee2b653522c1"
-      (reference "R915") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R915") (unit 1) (value "100k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/9356f697-7e1b-4057-a8ab-943a7418c18d"
-      (reference "R916") (unit 1) (value "4.7k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R916") (unit 1) (value "4.7k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/8d1d9b3c-f236-4d75-957c-1c7a4ccc0768"
-      (reference "R917") (unit 1) (value "10k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R917") (unit 1) (value "10k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/22787fb3-ae1e-45f0-9312-d377c2215691"
-      (reference "R4021") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4021") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/197ac68b-ed8f-4043-abd9-ea232d082a05"
-      (reference "R4031") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R4031") (unit 1) (value "22k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/6789cf68-3f6e-42e7-bd59-87a71df31530"
-      (reference "R4041") (unit 1) (value "300") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4041") (unit 1) (value "300") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/bcec6a02-c122-4899-8a3a-7701c33f92f2"
-      (reference "R4051") (unit 1) (value "100") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4051") (unit 1) (value "100") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/de9ad690-3687-4f4c-b021-d7c364099622"
-      (reference "R4052") (unit 1) (value "2.2k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4052") (unit 1) (value "2.2k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3a37a680-08f5-4732-8ffe-7f498eff232a"
-      (reference "R4061") (unit 1) (value "100") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4061") (unit 1) (value "100") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c406c9f3-b344-4e79-8451-27e1991aacd5"
-      (reference "R4062") (unit 1) (value "2.2k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4062") (unit 1) (value "2.2k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e2795b80-5bf3-42b8-86ce-f4165f251207"
-      (reference "R4071") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R4071") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/7c077db9-e3ae-45c7-9f41-818cce1f081f"
-      (reference "R4072") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R4072") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3471100c-9d09-45c1-9946-fbcf60a3b973"
-      (reference "R4073") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R4073") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/30844031-f67c-4282-911a-7f14966a7999"
-      (reference "R4074") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R4074") (unit 1) (value "82k") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/54087f32-dabd-4e81-b121-c8a4fb06667d"
-      (reference "R4081") (unit 1) (value "560") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4081") (unit 1) (value "560") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/00983e76-6be4-4038-93d5-d7bee1807cb4"
-      (reference "R4082") (unit 1) (value "27") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4082") (unit 1) (value "27") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2baeee59-36af-457b-a9a4-a58519f24048"
-      (reference "R4091") (unit 1) (value "220") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4091") (unit 1) (value "220") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d9ec75b9-6048-48f8-9cdb-af1496c84014"
-      (reference "R4092") (unit 1) (value "3.3k") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4092") (unit 1) (value "3.3k") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/8a58b9ec-b5af-4d5a-9160-a1067a144129"
-      (reference "R4141") (unit 1) (value "560") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4141") (unit 1) (value "560") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/706dcb06-17c3-4c1b-a1d8-235d6ab6d5e7"
-      (reference "R4142") (unit 1) (value "27") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "R4142") (unit 1) (value "27") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2892d8b5-4b96-4f23-add3-33639af1db76"
-      (reference "R4151") (unit 1) (value "200") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (reference "R4151") (unit 1) (value "200") (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0e02a8c2-fd32-4d2c-b60d-9af84ea47741"
-      (reference "R4161") (unit 1) (value "8.2") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4161") (unit 1) (value "8.2") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/044c1d9d-900d-4d0c-9db1-d826e3f1bd81"
-      (reference "R4171") (unit 1) (value "8.2") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4171") (unit 1) (value "8.2") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/05260054-0e59-4d02-bb01-cc8e91bcdada"
-      (reference "R4181") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4181") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/96b12b24-666b-4916-9d66-f95113887eea"
-      (reference "R4182") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4182") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/32bac0fe-c708-45e7-94c4-326ed7abfc35"
-      (reference "R4183") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4183") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/af32261c-78fc-437c-bd38-7f68c696a530"
-      (reference "R4184") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4184") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f0805df6-1d84-4d06-ba59-f2ded33bd29b"
-      (reference "R4185") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4185") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/4181289a-722c-40c7-84fa-7d28081cac1a"
-      (reference "R4186") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4186") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d20efb32-3472-4c39-a71c-f164d71501c7"
-      (reference "R4191") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4191") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/78065860-96bb-4e61-a3e8-9480f003eabc"
-      (reference "R4192") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4192") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/96cf8c3d-9945-4dd2-8772-a01613fb4e31"
-      (reference "R4193") (unit 1) (value "0.15") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4193") (unit 1) (value "0.15") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/12d812ef-253f-487a-8ea1-b1686e2c8d5f"
-      (reference "R4194") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4194") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ba923415-ee2e-4836-bc6e-e3bae9f65a98"
-      (reference "R4195") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4195") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/852f5578-b45b-4c93-9384-b55b9e4462af"
-      (reference "R4196") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (reference "R4196") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/4a22643b-70ef-4fef-a856-412adf02edb8"
-      (reference "RG401") (unit 1) (value "10") (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (reference "RG401") (unit 1) (value "10") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d4999122-59af-4623-a35e-b27d59b7a912"
       (reference "RT401") (unit 1) (value "5k") (footprint "BSD_POWER_AMP:RESISTOR_ROUND_TRIMPOT_STD")

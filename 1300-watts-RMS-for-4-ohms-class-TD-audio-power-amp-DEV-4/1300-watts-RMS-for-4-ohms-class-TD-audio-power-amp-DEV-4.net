@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/heru-aam/Documents/EDA/POWER-AMP-DESIGN/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4.kicad_sch")
-    (date "Wed 14 Sep 2022 04:48:23 PM WIB")
+    (date "Sat 17 Sep 2022 07:11:07 PM WIB")
     (tool "Eeschema 6.0.7-1.fc36")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -135,7 +135,7 @@
       (tstamps "727ec9a3-9607-4c16-b058-aa12a4b92ad2"))
     (comp (ref "C402")
       (value "220pF")
-      (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_STD")
+      (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
@@ -157,7 +157,7 @@
       (tstamps "bc9dcb77-bfe8-4993-afe8-03b36f4002cb"))
     (comp (ref "C404")
       (value "220pF")
-      (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
@@ -245,7 +245,7 @@
       (tstamps "39deeb21-d6f7-4079-87ab-954c651e2473"))
     (comp (ref "C602")
       (value "330pF")
-      (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
@@ -289,7 +289,7 @@
       (tstamps "9de80bf3-e02c-4a13-a994-5c50d6bc0de6"))
     (comp (ref "C702")
       (value "330pF")
-      (footprint "BSD_POWER_AMP:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
@@ -397,7 +397,7 @@
       (tstamps "57564e5c-f8dc-4637-b0c0-8b7b7cfa6e0c"))
     (comp (ref "D401")
       (value "1N4730")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4730")
@@ -414,7 +414,7 @@
       (tstamps "b40794f7-7a86-4f3b-9128-03fb06d6dd0c"))
     (comp (ref "D601")
       (value "1N4007")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -431,7 +431,7 @@
       (tstamps "40370916-c57e-4a00-a003-ea2d76c816ec"))
     (comp (ref "D602")
       (value "BAV21")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -448,7 +448,7 @@
       (tstamps "deb70ead-20fb-409b-b3ee-1b32de9d708e"))
     (comp (ref "D603")
       (value "1N4734")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4734")
@@ -465,7 +465,7 @@
       (tstamps "024bee1f-0384-4882-8a61-190051b78437"))
     (comp (ref "D604")
       (value "1N4007")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -482,7 +482,7 @@
       (tstamps "31afc8b3-8f87-4a70-b678-7ddd381c91f5"))
     (comp (ref "D605")
       (value "1N4744")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4744")
@@ -499,7 +499,7 @@
       (tstamps "54074545-e925-421f-9b26-99a0b2cb0b0d"))
     (comp (ref "D606")
       (value "1N4007")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -567,7 +567,7 @@
       (tstamps "dd1ceac7-ea12-4b8a-a8fc-2892a261d7a8"))
     (comp (ref "D610")
       (value "BAV21")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -584,7 +584,7 @@
       (tstamps "360827fe-4785-4a06-a20c-ae59c40c7186"))
     (comp (ref "D611")
       (value "1N4742")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4742")
@@ -669,7 +669,7 @@
       (tstamps "945da532-3438-43d9-80f3-38033c076e9c"))
     (comp (ref "D701")
       (value "1N4007")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -686,7 +686,7 @@
       (tstamps "d3bb6fdd-c4f2-45d7-8f4b-d3848664e7a7"))
     (comp (ref "D702")
       (value "BAV21")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -703,7 +703,7 @@
       (tstamps "2aa6a9e7-6d36-40dd-87d9-dcac4c679251"))
     (comp (ref "D703")
       (value "1N4734")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4734")
@@ -720,7 +720,7 @@
       (tstamps "ba828de8-4c70-4c7c-82c0-4a05cbb84cf4"))
     (comp (ref "D704")
       (value "1N4007")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -737,7 +737,7 @@
       (tstamps "2635f3f9-9384-4bce-b322-870b4b90837c"))
     (comp (ref "D705")
       (value "1N4744")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4744")
@@ -754,7 +754,7 @@
       (tstamps "cbc380dc-e5fb-4169-8467-0c7dbb8becef"))
     (comp (ref "D706")
       (value "1N4007")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -805,7 +805,7 @@
       (tstamps "3ace643d-9a3f-4762-848f-9747aa9da44d"))
     (comp (ref "D709")
       (value "BAV21")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -822,7 +822,7 @@
       (tstamps "0e8de77f-49b3-4a9a-9ce7-77677c9a4826"))
     (comp (ref "D710")
       (value "1N4742")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4742")
@@ -839,7 +839,7 @@
       (tstamps "fa83324e-807d-4693-b517-6fe6dc063b62"))
     (comp (ref "D711")
       (value "BAV21")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4007")
@@ -948,7 +948,7 @@
       (tstamps "e7c481a8-f3b8-4677-85df-ab3ff7f35c17"))
     (comp (ref "Q401")
       (value "MPSA42")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "MPSA42")
@@ -965,7 +965,7 @@
       (tstamps "2e098990-e2cf-4259-8962-3b05c0b6615b"))
     (comp (ref "Q402")
       (value "MPSA42")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "MPSA42")
@@ -982,7 +982,7 @@
       (tstamps "48ef9522-84d0-4f83-924d-e02d07a2752f"))
     (comp (ref "Q403")
       (value "MPSA92")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "MPSA92")
@@ -999,7 +999,7 @@
       (tstamps "7c0e9fb6-f5a5-4ba4-b021-cfe2053cef94"))
     (comp (ref "Q404")
       (value "MPSA92")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "MPSA92")
@@ -1152,7 +1152,7 @@
       (tstamps "41b4b178-cdf2-47e2-9a75-4025e4c5a634"))
     (comp (ref "Q601")
       (value "2N5401")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5401")
@@ -1237,7 +1237,7 @@
       (tstamps "d89accdc-15ea-4ee2-9833-a98f1cca4c78"))
     (comp (ref "Q606")
       (value "2N5401")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5401")
@@ -1254,7 +1254,7 @@
       (tstamps "dc60a73a-18a8-4b77-a7b3-8c6b499fa332"))
     (comp (ref "Q607")
       (value "2N5401")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5401")
@@ -1271,7 +1271,7 @@
       (tstamps "2d9c0590-ee8c-48a4-86d9-8491063b2b73"))
     (comp (ref "Q608")
       (value "2N5401")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5401")
@@ -1305,7 +1305,7 @@
       (tstamps "c4bbe018-4b9f-4044-979d-566f0d2c68ce"))
     (comp (ref "Q610")
       (value "2N5551")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5551")
@@ -1339,7 +1339,7 @@
       (tstamps "ae215db0-d804-4ebb-a9ce-cfba0a83720e"))
     (comp (ref "Q701")
       (value "2N5551")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5551")
@@ -1424,7 +1424,7 @@
       (tstamps "9d906ebd-c52c-4935-a0de-08b0aa62342f"))
     (comp (ref "Q706")
       (value "2N5551")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5551")
@@ -1441,7 +1441,7 @@
       (tstamps "7c962d23-9ca8-440e-b76c-937f104171bc"))
     (comp (ref "Q707")
       (value "2N5551")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5551")
@@ -1458,7 +1458,7 @@
       (tstamps "f0f9e53d-14f0-4384-9248-7df2a009d4aa"))
     (comp (ref "Q708")
       (value "2N5401")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5401")
@@ -1492,7 +1492,7 @@
       (tstamps "757b4a3a-a01d-49d2-bb47-be9cd48818fe"))
     (comp (ref "Q710")
       (value "2N5551")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5551")
@@ -1730,7 +1730,7 @@
       (tstamps "3931e005-0877-4121-a055-d444f8078d27"))
     (comp (ref "R401")
       (value "820")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1741,7 +1741,7 @@
       (tstamps "ab6ca2ad-2e36-4418-93f0-13212283a861"))
     (comp (ref "R410")
       (value "2k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1752,7 +1752,7 @@
       (tstamps "88125138-61be-4735-8f28-d63e2cb88571"))
     (comp (ref "R411")
       (value "680")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1763,7 +1763,7 @@
       (tstamps "afda0472-c172-484c-b81d-d4e06dc73d95"))
     (comp (ref "R412")
       (value "680")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1774,7 +1774,7 @@
       (tstamps "946eaa72-3b29-4f39-94de-53ec7243da6f"))
     (comp (ref "R413")
       (value "2k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1785,7 +1785,7 @@
       (tstamps "c02f1f44-efd2-4287-9b19-87144aaada6b"))
     (comp (ref "R420")
       (value "10")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1796,7 +1796,7 @@
       (tstamps "34f245c6-8f5f-4e62-a9db-bb0361232553"))
     (comp (ref "R601")
       (value "1.5k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1807,7 +1807,7 @@
       (tstamps "ad179d69-af05-465c-be56-1d408ec7c6ad"))
     (comp (ref "R602")
       (value "47k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1818,7 +1818,7 @@
       (tstamps "e601fb30-708c-4423-8944-6f7ba55fd368"))
     (comp (ref "R603")
       (value "47k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1829,7 +1829,7 @@
       (tstamps "4ad890e0-0cba-4f53-99ea-194ed02ab0d5"))
     (comp (ref "R604")
       (value "470")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1840,7 +1840,7 @@
       (tstamps "d4473986-d1ab-4d1e-a52e-2e18e220d38c"))
     (comp (ref "R605")
       (value "47k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1851,7 +1851,7 @@
       (tstamps "1370b4be-60c3-4247-8649-8ca7b2d89007"))
     (comp (ref "R606")
       (value "56")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1862,7 +1862,7 @@
       (tstamps "81874cd0-c6ba-4404-a0d8-ac56572812a7"))
     (comp (ref "R607")
       (value "1.5")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1873,7 +1873,7 @@
       (tstamps "c1d9d387-977b-4039-8b43-39407063aaeb"))
     (comp (ref "R608")
       (value "150")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1884,7 +1884,7 @@
       (tstamps "31129ed8-5328-4497-b0ce-936178fe557f"))
     (comp (ref "R609")
       (value "15k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
       (fields
         (field (name "Wattage") "2W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1895,7 +1895,7 @@
       (tstamps "8f2a91f5-22f2-4e4d-94da-c56b0a1a5c16"))
     (comp (ref "R610")
       (value "15k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
       (fields
         (field (name "Wattage") "2W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1906,7 +1906,7 @@
       (tstamps "c89dc4c4-e3d6-465d-9678-de9bf2066489"))
     (comp (ref "R611")
       (value "1.5k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1917,7 +1917,7 @@
       (tstamps "32c5d48f-31ed-4356-a9af-2393850043fc"))
     (comp (ref "R612")
       (value "680")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1928,7 +1928,7 @@
       (tstamps "07fed3dc-aeb6-466a-9a1e-8f9e70234b0a"))
     (comp (ref "R701")
       (value "1.5k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1939,7 +1939,7 @@
       (tstamps "a076f44b-3bf4-48f0-9472-88db4f08467a"))
     (comp (ref "R702")
       (value "47k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1950,7 +1950,7 @@
       (tstamps "c71a0b81-492c-4b06-9ab0-e7a3b21d532a"))
     (comp (ref "R703")
       (value "47k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1961,7 +1961,7 @@
       (tstamps "cc45448f-fa6d-4968-a0c4-c4aa9f1c3e94"))
     (comp (ref "R704")
       (value "470")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1972,7 +1972,7 @@
       (tstamps "9af8ff07-49e1-4e53-9147-4e9ceb7a23e1"))
     (comp (ref "R705")
       (value "47k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1983,7 +1983,7 @@
       (tstamps "81d31bad-1c33-4a21-a916-2915f486946c"))
     (comp (ref "R706")
       (value "56")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -1994,7 +1994,7 @@
       (tstamps "e1a5796b-89c8-40e8-85e9-4d259cf61c1b"))
     (comp (ref "R707")
       (value "1.5")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2005,7 +2005,7 @@
       (tstamps "cbf5f24e-0769-4e02-9863-a33bd5b93c00"))
     (comp (ref "R708")
       (value "150")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2016,7 +2016,7 @@
       (tstamps "be66acde-982b-4e9c-b443-e7ca526eae6e"))
     (comp (ref "R709")
       (value "15k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2027,7 +2027,7 @@
       (tstamps "d02e02e2-75ed-4f3e-9eed-a68ee1d69cbb"))
     (comp (ref "R710")
       (value "15k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_2W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal")
       (fields
         (field (name "Wattage") "2W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2038,7 +2038,7 @@
       (tstamps "2f2787b5-592b-4e1d-90b7-00470cdb06ed"))
     (comp (ref "R711")
       (value "680")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2049,7 +2049,7 @@
       (tstamps "c603788a-7842-499e-b19f-5b34f371be69"))
     (comp (ref "R4021")
       (value "22k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2060,7 +2060,7 @@
       (tstamps "22787fb3-ae1e-45f0-9312-d377c2215691"))
     (comp (ref "R4031")
       (value "22k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2071,7 +2071,7 @@
       (tstamps "197ac68b-ed8f-4043-abd9-ea232d082a05"))
     (comp (ref "R4041")
       (value "300")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2082,7 +2082,7 @@
       (tstamps "6789cf68-3f6e-42e7-bd59-87a71df31530"))
     (comp (ref "R4051")
       (value "100")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2093,7 +2093,7 @@
       (tstamps "bcec6a02-c122-4899-8a3a-7701c33f92f2"))
     (comp (ref "R4052")
       (value "2.2k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2104,7 +2104,7 @@
       (tstamps "de9ad690-3687-4f4c-b021-d7c364099622"))
     (comp (ref "R4061")
       (value "100")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2115,7 +2115,7 @@
       (tstamps "3a37a680-08f5-4732-8ffe-7f498eff232a"))
     (comp (ref "R4062")
       (value "2.2k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2126,7 +2126,7 @@
       (tstamps "c406c9f3-b344-4e79-8451-27e1991aacd5"))
     (comp (ref "R4071")
       (value "82k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2137,7 +2137,7 @@
       (tstamps "e2795b80-5bf3-42b8-86ce-f4165f251207"))
     (comp (ref "R4072")
       (value "82k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2148,7 +2148,7 @@
       (tstamps "7c077db9-e3ae-45c7-9f41-818cce1f081f"))
     (comp (ref "R4073")
       (value "82k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2159,7 +2159,7 @@
       (tstamps "3471100c-9d09-45c1-9946-fbcf60a3b973"))
     (comp (ref "R4074")
       (value "82k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2170,7 +2170,7 @@
       (tstamps "30844031-f67c-4282-911a-7f14966a7999"))
     (comp (ref "R4081")
       (value "560")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2181,7 +2181,7 @@
       (tstamps "54087f32-dabd-4e81-b121-c8a4fb06667d"))
     (comp (ref "R4082")
       (value "27")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2192,7 +2192,7 @@
       (tstamps "00983e76-6be4-4038-93d5-d7bee1807cb4"))
     (comp (ref "R4091")
       (value "220")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2203,7 +2203,7 @@
       (tstamps "2baeee59-36af-457b-a9a4-a58519f24048"))
     (comp (ref "R4092")
       (value "3.3k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2214,7 +2214,7 @@
       (tstamps "d9ec75b9-6048-48f8-9cdb-af1496c84014"))
     (comp (ref "R4141")
       (value "560")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2225,7 +2225,7 @@
       (tstamps "8a58b9ec-b5af-4d5a-9160-a1067a144129"))
     (comp (ref "R4142")
       (value "27")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2236,7 +2236,7 @@
       (tstamps "706dcb06-17c3-4c1b-a1d8-235d6ab6d5e7"))
     (comp (ref "R4151")
       (value "200")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2247,10 +2247,10 @@
       (tstamps "2892d8b5-4b96-4f23-add3-33639af1db76"))
     (comp (ref "R4161")
       (value "8.2")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
-      (libsource (lib "Device") (part "R") (description "Resistor"))
+      (libsource (lib "") (part "R_2") (description "Resistor"))
       (property (name "Wattage") (value "5W"))
       (property (name "Sheetname") (value "POWER-AMP"))
       (property (name "Sheetfile") (value "POWER-AMP-BLOCK.kicad_sch"))
@@ -2258,10 +2258,10 @@
       (tstamps "0e02a8c2-fd32-4d2c-b60d-9af84ea47741"))
     (comp (ref "R4171")
       (value "8.2")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
-      (libsource (lib "Device") (part "R") (description "Resistor"))
+      (libsource (lib "") (part "R_1") (description "Resistor"))
       (property (name "Wattage") (value "5W"))
       (property (name "Sheetname") (value "POWER-AMP"))
       (property (name "Sheetfile") (value "POWER-AMP-BLOCK.kicad_sch"))
@@ -2269,7 +2269,7 @@
       (tstamps "044c1d9d-900d-4d0c-9db1-d826e3f1bd81"))
     (comp (ref "R4181")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2280,7 +2280,7 @@
       (tstamps "05260054-0e59-4d02-bb01-cc8e91bcdada"))
     (comp (ref "R4182")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2291,7 +2291,7 @@
       (tstamps "96b12b24-666b-4916-9d66-f95113887eea"))
     (comp (ref "R4183")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2302,7 +2302,7 @@
       (tstamps "32bac0fe-c708-45e7-94c4-326ed7abfc35"))
     (comp (ref "R4184")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2313,7 +2313,7 @@
       (tstamps "af32261c-78fc-437c-bd38-7f68c696a530"))
     (comp (ref "R4185")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2324,7 +2324,7 @@
       (tstamps "f0805df6-1d84-4d06-ba59-f2ded33bd29b"))
     (comp (ref "R4186")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2335,7 +2335,7 @@
       (tstamps "4181289a-722c-40c7-84fa-7d28081cac1a"))
     (comp (ref "R4191")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2346,7 +2346,7 @@
       (tstamps "d20efb32-3472-4c39-a71c-f164d71501c7"))
     (comp (ref "R4192")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2357,7 +2357,7 @@
       (tstamps "78065860-96bb-4e61-a3e8-9480f003eabc"))
     (comp (ref "R4193")
       (value "0.15")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2368,7 +2368,7 @@
       (tstamps "96cf8c3d-9945-4dd2-8772-a01613fb4e31"))
     (comp (ref "R4194")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2379,7 +2379,7 @@
       (tstamps "12d812ef-253f-487a-8ea1-b1686e2c8d5f"))
     (comp (ref "R4195")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2390,7 +2390,7 @@
       (tstamps "ba923415-ee2e-4836-bc6e-e3bae9f65a98"))
     (comp (ref "R4196")
       (value "0.33")
-      (footprint "BSD_POWER_AMP:RESISTOR_BLOCK_5W")
+      (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
       (fields
         (field (name "Wattage") "5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2401,7 +2401,7 @@
       (tstamps "852f5578-b45b-4c93-9384-b55b9e4462af"))
     (comp (ref "RG401")
       (value "10")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2629,7 +2629,7 @@
       (tstamps "2493ce05-1a40-47ce-8173-314fa3b093c7"))
     (comp (ref "D901")
       (value "1N4734")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4734")
@@ -2646,7 +2646,7 @@
       (tstamps "7628cefb-bc30-44e5-b196-188fac10705b"))
     (comp (ref "D902")
       (value "BAV21")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "BAV21")
@@ -2663,7 +2663,7 @@
       (tstamps "59f3ea42-b364-4d74-9185-e31129e90696"))
     (comp (ref "D903")
       (value "1N4734")
-      (footprint "BSD_POWER_AMP:DIODE_ZENER_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4734")
@@ -2680,7 +2680,7 @@
       (tstamps "ef7969c9-b4ca-4efe-9f20-4d3a2030caa1"))
     (comp (ref "D904")
       (value "BAV21")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "BAV21")
@@ -2697,7 +2697,7 @@
       (tstamps "55c8d398-7e04-4e3e-a5c2-53f4d2fd3efc"))
     (comp (ref "D905")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2714,7 +2714,7 @@
       (tstamps "d44ad720-8b5f-424f-a038-7b8d6b7c190e"))
     (comp (ref "D906")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2731,7 +2731,7 @@
       (tstamps "f38dd57c-2b78-45fd-8d47-5d1ea32f6266"))
     (comp (ref "D907")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2748,7 +2748,7 @@
       (tstamps "4356ea87-f9f8-4c81-a570-dda8cc3800b3"))
     (comp (ref "D908")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2765,7 +2765,7 @@
       (tstamps "27e9f489-6971-445e-a04b-4f37ba30e127"))
     (comp (ref "D909")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2782,7 +2782,7 @@
       (tstamps "b2570e8a-b01c-4717-b0df-4f0743359656"))
     (comp (ref "D910")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2799,7 +2799,7 @@
       (tstamps "92deff12-322a-49a7-ad70-d70367641e00"))
     (comp (ref "D911")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2816,7 +2816,7 @@
       (tstamps "66ae150d-edbe-4b3e-bced-b8a3e2264a12"))
     (comp (ref "D912")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2833,7 +2833,7 @@
       (tstamps "56f9f667-c5be-4422-8be4-d39b893ee8ee"))
     (comp (ref "D913")
       (value "1N4148")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_GE")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4148")
@@ -2850,7 +2850,7 @@
       (tstamps "c69672b7-9e9c-42f8-b015-e6b09ee22231"))
     (comp (ref "D914")
       (value "1N4002")
-      (footprint "BSD_POWER_AMP:DIODE_AXIAL_SMALL_SI")
+      (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4002")
@@ -2883,7 +2883,7 @@
       (tstamps "7aab689a-7e78-440a-b7ef-3e81f685e540"))
     (comp (ref "Q901")
       (value "2N5401")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5401")
@@ -2900,7 +2900,7 @@
       (tstamps "6c996c36-dedd-4dfd-bd08-0dc5729b26c6"))
     (comp (ref "Q902")
       (value "2N5551")
-      (footprint "BSD_POWER_AMP:TO-92-EBC")
+      (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "2N5551")
@@ -2934,7 +2934,7 @@
       (tstamps "9439477d-bc80-4cb8-a9b0-a427283a70ba"))
     (comp (ref "R901")
       (value "1k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2945,7 +2945,7 @@
       (tstamps "a8a2cf67-0f43-4406-ad4f-88bffce2f476"))
     (comp (ref "R902")
       (value "22k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2956,7 +2956,7 @@
       (tstamps "cfeb191b-920b-4836-b740-ce2d01607667"))
     (comp (ref "R903")
       (value "100k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2967,7 +2967,7 @@
       (tstamps "b35aa1f3-c577-4fbc-a131-6aa8ada7e9be"))
     (comp (ref "R904")
       (value "1k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2978,7 +2978,7 @@
       (tstamps "eeed5deb-13c4-4b94-968a-88bef2c0525c"))
     (comp (ref "R905")
       (value "22k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -2989,7 +2989,7 @@
       (tstamps "39bb5a1f-dcfd-4c8b-bfdf-14cbb74c5eee"))
     (comp (ref "R906")
       (value "100k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3000,7 +3000,7 @@
       (tstamps "47648d56-6021-401a-88b7-af88310c34c3"))
     (comp (ref "R907")
       (value "100k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3011,7 +3011,7 @@
       (tstamps "3fb58a50-25e2-445e-9645-2a4453fee9d7"))
     (comp (ref "R908")
       (value "100k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3022,7 +3022,7 @@
       (tstamps "45bd363c-b12b-4380-8305-a5034538b450"))
     (comp (ref "R909")
       (value "1k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3033,7 +3033,7 @@
       (tstamps "0c280774-374d-4080-9bb4-fef56c427cd5"))
     (comp (ref "R910")
       (value "10k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3044,7 +3044,7 @@
       (tstamps "8893618c-6d32-4c7d-8cda-204946bb9229"))
     (comp (ref "R911")
       (value "15k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3055,7 +3055,7 @@
       (tstamps "37b8c003-336e-4d77-8801-76a545b4288b"))
     (comp (ref "R912")
       (value "15k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3066,7 +3066,7 @@
       (tstamps "914e0ad9-c151-41ce-b834-ecc0a7d9a4e7"))
     (comp (ref "R913")
       (value "470")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3077,7 +3077,7 @@
       (tstamps "3bf9635b-5513-4bc0-a249-b80389a5a93a"))
     (comp (ref "R914")
       (value "15k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3088,7 +3088,7 @@
       (tstamps "9d7fcdf3-bb31-4570-afde-e3a793ddc600"))
     (comp (ref "R915")
       (value "100k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3099,7 +3099,7 @@
       (tstamps "ccd9f860-0436-4a35-a7eb-ee2b653522c1"))
     (comp (ref "R916")
       (value "4.7k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.5W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
       (fields
         (field (name "Wattage") "0.5W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3110,7 +3110,7 @@
       (tstamps "9356f697-7e1b-4057-a8ab-943a7418c18d"))
     (comp (ref "R917")
       (value "10k")
-      (footprint "BSD_POWER_AMP:RESISTOR_AXIAL_0.25W")
+      (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
@@ -3481,6 +3481,30 @@
         (pin (num "1") (name "C") (type "passive"))
         (pin (num "2") (name "B") (type "input"))
         (pin (num "3") (name "E") (type "passive"))))
+    (libpart (lib "") (part "R_1")
+      (description "Resistor")
+      (docs "~")
+      (footprints
+        (fp "R_*"))
+      (fields
+        (field (name "Reference") "R")
+        (field (name "Value") "R_1")
+        (field (name "Datasheet") "~"))
+      (pins
+        (pin (num "1") (name "") (type "passive"))
+        (pin (num "2") (name "") (type "passive"))))
+    (libpart (lib "") (part "R_2")
+      (description "Resistor")
+      (docs "~")
+      (footprints
+        (fp "R_*"))
+      (fields
+        (field (name "Reference") "R")
+        (field (name "Value") "R_2")
+        (field (name "Datasheet") "~"))
+      (pins
+        (pin (num "1") (name "") (type "passive"))
+        (pin (num "2") (name "") (type "passive"))))
     (libpart (lib "Amplifier_Operational") (part "RC4558")
       (description "Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8")
       (docs "http://www.ti.com/lit/ds/symlink/rc4558.pdf")
@@ -3891,7 +3915,7 @@
       (node (ref "Q4145") (pin "2") (pinfunction "B") (pintype "input"))
       (node (ref "Q4146") (pin "2") (pinfunction "B") (pintype "input"))
       (node (ref "Q902") (pin "3") (pinfunction "E") (pintype "passive"))
-      (node (ref "R4171") (pin "1") (pintype "passive"))
+      (node (ref "R4171") (pin "2") (pintype "passive"))
       (node (ref "R905") (pin "2") (pintype "passive")))
     (net (code "12") (name "DRVP1")
       (node (ref "Q409") (pin "3") (pinfunction "E") (pintype "passive"))
@@ -3907,7 +3931,7 @@
       (node (ref "Q4135") (pin "2") (pinfunction "B") (pintype "input"))
       (node (ref "Q4136") (pin "2") (pinfunction "B") (pintype "input"))
       (node (ref "Q901") (pin "3") (pinfunction "E") (pintype "passive"))
-      (node (ref "R4161") (pin "2") (pintype "passive"))
+      (node (ref "R4161") (pin "1") (pintype "passive"))
       (node (ref "R902") (pin "1") (pintype "passive")))
     (net (code "14") (name "INPUT_GND")
       (node (ref "C402") (pin "1") (pintype "passive"))
@@ -4204,8 +4228,8 @@
       (node (ref "D903") (pin "2") (pinfunction "K") (pintype "passive"))
       (node (ref "L401") (pin "2") (pintype "passive"))
       (node (ref "R4031") (pin "1") (pintype "passive"))
-      (node (ref "R4161") (pin "1") (pintype "passive"))
-      (node (ref "R4171") (pin "2") (pintype "passive"))
+      (node (ref "R4161") (pin "2") (pintype "passive"))
+      (node (ref "R4171") (pin "1") (pintype "passive"))
       (node (ref "R4181") (pin "2") (pintype "passive"))
       (node (ref "R4182") (pin "2") (pintype "passive"))
       (node (ref "R4183") (pin "2") (pintype "passive"))
