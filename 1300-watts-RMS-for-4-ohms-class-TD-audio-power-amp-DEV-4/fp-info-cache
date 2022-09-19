@@ -1,4 +1,4 @@
-99920306929672
+103247159484818
 BSD_POWER_AMP
 0.01uF_250V_Vishay_Roederstein_MKT_1818
 
@@ -360,6 +360,20 @@ BSD_POWER_AMP
 TO-92_Inline_Wide_EBC
 TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+BSD_POWER_AMP
+TO-126-3_Vertical
+TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Vertical RM 2.54mm
+0
+3
+3
+BSD_POWER_AMP
+TO-126-3_Vertical_For_Bottom_Layer
+TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Vertical RM 2.54mm
 0
 3
 3
