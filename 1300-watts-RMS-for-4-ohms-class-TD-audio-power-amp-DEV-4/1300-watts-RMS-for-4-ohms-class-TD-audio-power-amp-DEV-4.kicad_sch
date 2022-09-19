@@ -804,7 +804,7 @@
       (reference "CNT904") (unit 1) (value "Molex AE-6410-02A") (footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b40794f7-7a86-4f3b-9128-03fb06d6dd0c"
-      (reference "D401") (unit 1) (value "1N4730") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D401") (unit 1) (value "1N4730") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/40370916-c57e-4a00-a003-ea2d76c816ec"
       (reference "D601") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
@@ -813,13 +813,13 @@
       (reference "D602") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/024bee1f-0384-4882-8a61-190051b78437"
-      (reference "D603") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D603") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/31afc8b3-8f87-4a70-b678-7ddd381c91f5"
       (reference "D604") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/54074545-e925-421f-9b26-99a0b2cb0b0d"
-      (reference "D605") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D605") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/a433a16c-f502-4218-bc4a-a702456f5ae7"
       (reference "D606") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
@@ -831,13 +831,13 @@
       (reference "D608") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:TO-220-2_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/dd1ceac7-ea12-4b8a-a8fc-2892a261d7a8"
-      (reference "D609") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D609") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/360827fe-4785-4a06-a20c-ae59c40c7186"
       (reference "D610") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/562da59c-e356-4bd0-847d-953e7d3c2aca"
-      (reference "D611") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D611") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/321639d6-103f-4212-9f20-50547ceb274d"
       (reference "D612") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:TO-220-2_Vertical_For_Bottom_Layer")
@@ -858,13 +858,13 @@
       (reference "D702") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ba828de8-4c70-4c7c-82c0-4a05cbb84cf4"
-      (reference "D703") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D703") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2635f3f9-9384-4bce-b322-870b4b90837c"
       (reference "D704") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/cbc380dc-e5fb-4169-8467-0c7dbb8becef"
-      (reference "D705") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D705") (unit 1) (value "1N4744") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0e2402fb-4953-4ae5-9f50-467da0d3d786"
       (reference "D706") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Horizontal")
@@ -879,7 +879,7 @@
       (reference "D709") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/fa83324e-807d-4693-b517-6fe6dc063b62"
-      (reference "D710") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D710") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0f7e83b4-69f9-4b5d-a5e8-ad28ac65ac17"
       (reference "D711") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
@@ -897,13 +897,13 @@
       (reference "D715") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:TO-220-2_Vertical_For_Bottom_Layer")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/7628cefb-bc30-44e5-b196-188fac10705b"
-      (reference "D901") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D901") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/59f3ea42-b364-4d74-9185-e31129e90696"
       (reference "D902") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/ef7969c9-b4ca-4efe-9f20-4d3a2030caa1"
-      (reference "D903") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P10.16mm_Zener_Horizontal")
+      (reference "D903") (unit 1) (value "1N4734") (footprint "BSD_POWER_AMP:D_T-1_P10.16mm_Zener_Horizontal")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/55c8d398-7e04-4e3e-a5c2-53f4d2fd3efc"
       (reference "D904") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P10.16mm_Horizontal")
