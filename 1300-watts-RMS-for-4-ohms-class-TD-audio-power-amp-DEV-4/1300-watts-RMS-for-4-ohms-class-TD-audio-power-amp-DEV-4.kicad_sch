@@ -981,10 +981,10 @@
       (reference "Q410") (unit 1) (value "MJE15033") (footprint "BSD_POWER_AMP:TO-220-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d5bfcc24-e2af-4e63-b9f0-720bf9ef3da5"
-      (reference "Q411") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q411") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/41b4b178-cdf2-47e2-9a75-4025e4c5a634"
-      (reference "Q412") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q412") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/87f124ed-5dc1-42e2-b931-23632698abf2"
       (reference "Q601") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
@@ -1062,40 +1062,40 @@
       (reference "Q903") (unit 1) (value "TIP41C") (footprint "BSD_POWER_AMP:TO-220-3_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/baf64767-08cb-4a3e-8f18-e973ae91367f"
-      (reference "Q4131") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4131") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c29e5b71-1806-4585-9e92-cc4157a6d4c9"
-      (reference "Q4132") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4132") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e31bae02-84db-4bbd-9646-792413429f81"
-      (reference "Q4133") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4133") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/5f584b2d-4fd0-428b-8223-b73d15db529f"
-      (reference "Q4134") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4134") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/fc5822cf-85a2-4cf7-bd7a-73ce64505140"
-      (reference "Q4135") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4135") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/65a7bedf-e769-4ba3-a725-30416e4dd055"
-      (reference "Q4136") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4136") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/28d656f9-dd0a-4649-915c-53697b8a144c"
-      (reference "Q4141") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4141") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/11543baa-f056-4406-a456-eb0d7465637e"
-      (reference "Q4142") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4142") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/35d2e387-3c98-4547-a822-4a6b6f7f1ee2"
-      (reference "Q4143") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4143") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/530975b6-19c2-4145-8cb4-97ebf991aac5"
-      (reference "Q4144") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4144") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/44060ba5-5f3a-4225-851c-fb1a6966803c"
-      (reference "Q4145") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4145") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3931e005-0877-4121-a055-d444f8078d27"
-      (reference "Q4146") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q4146") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ab6ca2ad-2e36-4418-93f0-13212283a861"
       (reference "R401") (unit 1) (value "820") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
