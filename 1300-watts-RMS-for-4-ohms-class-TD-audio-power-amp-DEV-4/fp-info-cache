@@ -1,4 +1,4 @@
-103247159484818
+118221238307559
 BSD_POWER_AMP
 0.01uF_250V_Vishay_Roederstein_MKT_1818
 
@@ -80,6 +80,27 @@ BSD_POWER_AMP
 CAPACITOR_MPF_STD
 
 
+0
+2
+2
+BSD_POWER_AMP
+CP_Radial_D5.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+BSD_POWER_AMP
+CP_Radial_D8.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
+0
+2
+2
+BSD_POWER_AMP
+CP_Radial_D10.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
 0
 2
 2
@@ -206,6 +227,20 @@ BSD_POWER_AMP
 D_DO-41_SOD81_P10.16mm_Zener_Horizontal
 Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
 Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+BSD_POWER_AMP
+D_T-1_P10.16mm_Horizontal
+Diode, T-1 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Horizontal pin pitch 10.16mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+BSD_POWER_AMP
+D_T-1_P10.16mm_Zener_Horizontal
+Diode, T-1 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Horizontal pin pitch 10.16mm  length 3.2mm diameter 2.6mm
 0
 2
 2
@@ -388,6 +423,34 @@ BSD_POWER_AMP
 TO-220-2
 
 
+0
+3
+3
+BSD_POWER_AMP
+TO-220-2_Vertical
+TO-220-2, Vertical, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
+TO-220-2 Vertical RM 5.08mm
+0
+2
+2
+BSD_POWER_AMP
+TO-220-2_Vertical_For_Bottom_Layer
+TO-220-2, Vertical, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
+TO-220-2 Vertical RM 5.08mm
+0
+2
+2
+BSD_POWER_AMP
+TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+BSD_POWER_AMP
+TO-220-3_Vertical_For_Bottom_Layer
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
 0
 3
 3
