@@ -741,7 +741,7 @@
       (reference "C602") (unit 1) (value "330pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3f3fdbed-19de-46fc-b024-b68c2f7ab49c"
-      (reference "C603") (unit 1) (value "2200pF") (footprint "BSD_POWER_AMP:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
+      (reference "C603") (unit 1) (value "2200pF") (footprint "BSD_POWER_AMP:C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d6b20e4e-09ab-4f22-befa-071262d50c93"
       (reference "C604") (unit 1) (value "1uF") (footprint "BSD_POWER_AMP:C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4")
@@ -753,7 +753,7 @@
       (reference "C702") (unit 1) (value "330pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/8ce1e5ec-912c-4b10-9b29-7981349ef175"
-      (reference "C703") (unit 1) (value "2200pF") (footprint "BSD_POWER_AMP:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
+      (reference "C703") (unit 1) (value "2200pF") (footprint "BSD_POWER_AMP:C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/df76a547-3775-4f54-ac3d-e871b1590c15"
       (reference "C704") (unit 1) (value "1uF") (footprint "BSD_POWER_AMP:C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4")

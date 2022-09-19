@@ -1,4 +1,4 @@
-118221238307559
+119884800607885
 BSD_POWER_AMP
 0.01uF_250V_Vishay_Roederstein_MKT_1818
 
@@ -108,6 +108,13 @@ BSD_POWER_AMP
 C_Disc_D8.0mm_W5.0mm_P10.00mm
 C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=8*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
 C Disc series Radial pin pitch 10.00mm  diameter 8mm width 5.0mm Capacitor
+0
+2
+2
+BSD_POWER_AMP
+C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13*4mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13mm width 4mm Capacitor
 0
 2
 2
