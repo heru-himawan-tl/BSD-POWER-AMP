@@ -999,7 +999,7 @@
       (reference "Q604") (unit 1) (value "MJE15032") (footprint "BSD_POWER_AMP:TO-220-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d89accdc-15ea-4ee2-9833-a98f1cca4c78"
-      (reference "Q605") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q605") (unit 1) (value "2SC5200") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/dc60a73a-18a8-4b77-a7b3-8c6b499fa332"
       (reference "Q606") (unit 1) (value "2N5401") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
@@ -1032,7 +1032,7 @@
       (reference "Q704") (unit 1) (value "MJE15033") (footprint "BSD_POWER_AMP:TO-220-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/9d906ebd-c52c-4935-a0de-08b0aa62342f"
-      (reference "Q705") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "Q705") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/7c962d23-9ca8-440e-b76c-937f104171bc"
       (reference "Q706") (unit 1) (value "2N5551") (footprint "BSD_POWER_AMP:TO-92_Inline_Wide_EBC")
@@ -1380,16 +1380,16 @@
       (reference "V106") (unit 1) (value "DC 24V") (footprint "")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/b0ed8dcb-3404-4292-9bef-1fbb49cff51e"
-      (reference "XQ6011") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "XQ6011") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/7a56a651-c821-483a-bdfb-2fc912a1f4fe"
-      (reference "XQ6012") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "XQ6012") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/813c40f6-5960-4a49-86db-3df84cedf9b7"
-      (reference "XQ7011") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "XQ7011") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f2475680-b3dd-4a59-8739-09b511f56abb"
-      (reference "XQ7012") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-MIRRORED")
+      (reference "XQ7012") (unit 1) (value "IRFP250N") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
   )
 )

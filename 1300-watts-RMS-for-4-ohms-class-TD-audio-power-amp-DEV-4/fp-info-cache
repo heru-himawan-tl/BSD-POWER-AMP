@@ -1,4 +1,4 @@
-119884800607885
+123224347638183
 BSD_POWER_AMP
 0.01uF_250V_Vishay_Roederstein_MKT_1818
 
@@ -486,6 +486,20 @@ BSD_POWER_AMP
 TO-264
 
 
+0
+3
+3
+BSD_POWER_AMP
+TO-264-3_Vertical
+TO-264-3, Vertical, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-3 Vertical RM 5.45mm
+0
+3
+3
+BSD_POWER_AMP
+TO-264-3_Vertical_For_Bottom_Layer
+TO-264-3, Vertical, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-3 Vertical RM 5.45mm
 0
 3
 3
