@@ -11953,7 +11953,7 @@
     (property "Value" "5k" (id 1) (at 114.3 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "BSD_POWER_AMP:RESISTOR_ROUND_TRIMPOT_STD" (id 2) (at 106.172 114.3 90)
+    (property "Footprint" "BSD_POWER_AMP:Potentiometer_Runtron_RM-065_Vertical" (id 2) (at 106.172 114.3 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.95 114.3 0)

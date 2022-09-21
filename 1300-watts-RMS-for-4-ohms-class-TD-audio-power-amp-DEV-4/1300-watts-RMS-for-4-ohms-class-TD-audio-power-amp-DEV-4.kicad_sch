@@ -1335,7 +1335,7 @@
       (reference "RG401") (unit 1) (value "10") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/d4999122-59af-4623-a35e-b27d59b7a912"
-      (reference "RT401") (unit 1) (value "5k") (footprint "BSD_POWER_AMP:RESISTOR_ROUND_TRIMPOT_STD")
+      (reference "RT401") (unit 1) (value "5k") (footprint "BSD_POWER_AMP:Potentiometer_Runtron_RM-065_Vertical")
     )
     (path "/d2eb7c98-81d2-46fd-aa5c-85ca06e5ef0a"
       (reference "R_GND1") (unit 1) (value "1") (footprint "")
