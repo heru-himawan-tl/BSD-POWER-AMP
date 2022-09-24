@@ -427,7 +427,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4.step",
       "vrml": ""
     },
     "page_layout_descr_file": "${KICAD6_TEMPLATE_DIR}/A3_ISO5457-1999_ISO7200-2004_EN.kicad_wks"
