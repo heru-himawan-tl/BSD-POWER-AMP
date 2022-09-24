@@ -1,5 +1,7 @@
 #!/bin/bash
+
 reset
+
 if [ "$1" = "" ]; then
     exit
 fi
