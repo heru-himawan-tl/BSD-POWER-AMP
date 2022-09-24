@@ -28,4 +28,9 @@
   (fp_line (start 11.43 -9.144) (end -11.43 -9.144) (layer "F.CrtYd") (width 0.0508) (tstamp ff5d12a4-d233-4f98-ade8-a3abc26d0964))
   (pad "1" thru_hole circle (at -9.525 0) (size 3.5 3.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp e4f67a3e-aa84-4c54-ab15-ce3da1d5eaf8))
   (pad "2" thru_hole circle (at 9.525 0) (size 3.5 3.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp a6cc1d0f-37ba-4445-a8b1-c6c980a4ed55))
+  (model "${KIPRJMOD}/PCB_LIB/3d/L_1uH_D0.645in_L0.step"
+    (offset (xyz 9.525 0 9.525))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 -90 -90))
+  )
 )
