@@ -1,15 +1,10 @@
 #!/bin/bash
-
 reset
-
-CWD=$(pwd)
-
-DIR=$1
-
 if [ "$1" = "" ]; then
     exit
 fi
 
+CWD=$(pwd)
 BASE_PRIV="BSD-PRIVATE"
 BASE="BSD"
 DEST_PRIV="$BASE_PRIV/$(basename $1)"
@@ -82,9 +77,7 @@ cd $BASE
 
 if [ -f ../BSD-POWER-AMP-README.md ]; then
     cat ../BSD-POWER-AMP-README.md > README.md
-    
     SCH_PNG=
-
     for f in $(find $1); do
         is_git=$(echo "$f" | awk '/.*\.git.*/')
         if [ "$is_git" = "" ]; then
@@ -101,7 +94,6 @@ if [ -f ../BSD-POWER-AMP-README.md ]; then
             fi
         fi
     done
-
     for png in $(echo $SCH_PNG); do
         echo "$png" >> README.md
     done
