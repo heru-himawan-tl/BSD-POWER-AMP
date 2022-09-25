@@ -774,22 +774,22 @@
       (reference "CNT401") (unit 1) (value "Molex AE-6410-02A") (footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f4ecebde-a587-4d5b-be53-f8aa865ce810"
-      (reference "CNT402") (unit 1) (value "Solder Tab 6.3 mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+      (reference "CNT402") (unit 1) (value "PinHeader_1x01_P2.54mm_Vertical") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0906f3d3-af40-43e5-9fde-e56df715367b"
-      (reference "CNT403") (unit 1) (value "Solder Tab 6.3 mm") (footprint "BSD_POWER_AMP:SOLDER-TAB-6.3-mm")
+      (reference "CNT403") (unit 1) (value "Solder_Tab_W6.35mm_P5.08mm") (footprint "BSD_POWER_AMP:Solder_Tab_W6.35mm_P5.08mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/6d3e8eb4-3828-4ec3-b1ed-c5c4ed40441f"
-      (reference "CNT404") (unit 1) (value "Solder Tab 6.3 mm") (footprint "BSD_POWER_AMP:SOLDER-TAB-6.3-mm")
+      (reference "CNT404") (unit 1) (value "Solder_Tab_W6.35mm_P5.08mm") (footprint "BSD_POWER_AMP:Solder_Tab_W6.35mm_P5.08mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/57564e5c-f8dc-4637-b0c0-8b7b7cfa6e0c"
-      (reference "CNT405") (unit 1) (value "Solder Tab 6.3 mm") (footprint "BSD_POWER_AMP:SOLDER-TAB-6.3-mm")
+      (reference "CNT405") (unit 1) (value "Solder_Tab_W6.35mm_P5.08mm") (footprint "BSD_POWER_AMP:Solder_Tab_W6.35mm_P5.08mm")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/caf7d35f-c20c-4505-895b-0a19ee5c60a7"
-      (reference "CNT406") (unit 1) (value "Solder Tab 6.3 mm") (footprint "BSD_POWER_AMP:SOLDER-TAB-6.3-mm")
+      (reference "CNT406") (unit 1) (value "Solder_Tab_W6.35mm_P5.08mm") (footprint "BSD_POWER_AMP:Solder_Tab_W6.35mm_P5.08mm")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/9e912cc2-028c-4fd6-83ba-55ed00d3fc07"
-      (reference "CNT407") (unit 1) (value "Solder Tab 6.3 mm") (footprint "BSD_POWER_AMP:SOLDER-TAB-6.3-mm")
+      (reference "CNT407") (unit 1) (value "Solder_Tab_W6.35mm_P5.08mm") (footprint "BSD_POWER_AMP:Solder_Tab_W6.35mm_P5.08mm")
     )
     (path "/8f6435da-a3ab-4a52-91dc-b566a373585a/985f041c-3853-43eb-b54d-20551a410d1e"
       (reference "CNT901") (unit 1) (value "Molex AE-6410-03A") (footprint "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical")
