@@ -1,4 +1,4 @@
-20507314873346201
+20503986720635834
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -384,20 +384,6 @@ Relay RAYEX L90 SPDT
 0
 6
 5
-BSD_POWER_AMP
-SOLDER-TAB-6.3-mm
-
-
-0
-2
-2
-BSD_POWER_AMP
-SOLDER-TAB-W6.3mm-P5.08mm
-
-
-0
-2
-2
 BSD_POWER_AMP
 Solder_Tab_W6.35mm_P5.00mm
 
