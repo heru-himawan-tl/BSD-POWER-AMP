@@ -1,8 +1,22 @@
 #!/bin/bash
 
+#############################################################################
+#                                                                           #
+# Script to manage BSD POWER AMP GIT repository                             #
+#                                                                           #
+# Copyright (C) 2022 Heru Himawan Tejo Laksono.                             #
+#                                                                           #
+#############################################################################
+
 reset
 
 if [ "$1" = "" ]; then
+    exit
+fi
+
+DIR=$(realpath $1)
+
+if [ ! -d "$DIR" ]; then
     exit
 fi
 
