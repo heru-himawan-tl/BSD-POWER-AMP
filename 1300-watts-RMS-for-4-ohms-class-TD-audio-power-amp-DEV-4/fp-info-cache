@@ -1,4 +1,4 @@
-20503986720635834
+20503986741678386
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -390,14 +390,14 @@ Solder_Tab_W6.35mm_P5.00mm
 
 0
 2
-2
+1
 BSD_POWER_AMP
 Solder_Tab_W6.35mm_P5.08mm
 
 
 0
 2
-2
+1
 BSD_POWER_AMP
 TO-92-CBE
 
