@@ -95,6 +95,7 @@ if [ -f ../BSD-POWER-AMP-README.md ]; then
     cat ../BSD-POWER-AMP-README.md > README.md
     SCH_PNG=
     for f in $(find $BASE/$1); do
+        echo ">>>>>>>>> $f"
         is_git=$(echo "$f" | awk '/.*\.git.*/')
         if [ "$is_git" = "" ]; then
             pdf=$(echo "$f" | awk '/.*(POWER-AMP|OVERLOAD-PROTECTOR)\.pdf$/')
