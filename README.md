@@ -51,5 +51,5 @@ please contact the developer by e-mail to: heru.htl.83 at gmail.com
 ## Online Schematics
 
 Online schematics are available below. Click on each to get full resolution.
-![1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-2022-10-03-10-39-13.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/./1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-2022-10-03-10-39-13.png)
-![1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-OVERLOAD-PROTECTOR.pdf-2022-10-03-10-39-12.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/./1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-OVERLOAD-PROTECTOR.pdf-2022-10-03-10-39-12.png)
+![1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-2022-10-03-12-23-00.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/./1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-POWER-AMP.pdf-2022-10-03-12-23-00.png)
+![1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-OVERLOAD-PROTECTOR.pdf-2022-10-03-12-22-59.png](https://raw.githubusercontent.com/heru-himawan-tl/BSD-POWER-AMP/main/./1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4/1300-watts-RMS-for-4-ohms-class-TD-audio-power-amp-DEV-4-OVERLOAD-PROTECTOR.pdf-2022-10-03-12-22-59.png)

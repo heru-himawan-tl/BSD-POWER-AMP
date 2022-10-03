@@ -1320,7 +1320,7 @@
       (reference "R4192") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/96cf8c3d-9945-4dd2-8772-a01613fb4e31"
-      (reference "R4193") (unit 1) (value "0.15") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
+      (reference "R4193") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/12d812ef-253f-487a-8ea1-b1686e2c8d5f"
       (reference "R4194") (unit 1) (value "0.33") (footprint "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm")

@@ -10896,7 +10896,7 @@
     (in_bom yes) (on_board yes)
     (uuid 96cf8c3d-9945-4dd2-8772-a01613fb4e31)
     (property "Reference" "R4193" (id 0) (at 260.35 137.16 0))
-    (property "Value" "0.15" (id 1) (at 260.35 139.7 0))
+    (property "Value" "0.33" (id 1) (at 260.35 139.7 0))
     (property "Footprint" "BSD_POWER_AMP:R_Axial_Shunt_L22.2mm_W9.5mm_PS14.30mm_P25.40mm" (id 2) (at 252.222 139.7 90)
       (effects (font (size 1.27 1.27)) hide)
     )
