@@ -1146,7 +1146,7 @@
       (reference "Q4136") (unit 1) (value "2SA1943") (footprint "BSD_POWER_AMP:TO-264-3_Vertical_For_Bottom_Layer")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ab6ca2ad-2e36-4418-93f0-13212283a861"
-      (reference "R401") (unit 1) (value "820") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R401") (unit 1) (value "560") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e5cda7a1-7af2-484d-a18c-25e580c368ef"
       (reference "R405") (unit 1) (value "10") (footprint "BSD_POWER_AMP:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
