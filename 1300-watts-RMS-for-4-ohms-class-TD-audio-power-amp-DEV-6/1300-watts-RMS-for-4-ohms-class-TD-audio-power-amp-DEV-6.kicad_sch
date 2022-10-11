@@ -723,7 +723,7 @@
       (reference "C403") (unit 1) (value "220uF") (footprint "BSD_POWER_AMP:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/4299e76d-d7f0-44ed-a8ce-28f26c28e5f0"
-      (reference "C404") (unit 1) (value "33pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
+      (reference "C404") (unit 1) (value "27pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e370dfcc-9f76-4e9f-b804-37aa2ef1a112"
       (reference "C405") (unit 1) (value "270pF") (footprint "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm")

@@ -9738,7 +9738,7 @@
     (in_bom yes) (on_board yes)
     (uuid 4299e76d-d7f0-44ed-a8ce-28f26c28e5f0)
     (property "Reference" "C404" (id 0) (at 83.82 111.76 90))
-    (property "Value" "33pF" (id 1) (at 83.82 114.3 90))
+    (property "Value" "27pF" (id 1) (at 83.82 114.3 90))
     (property "Footprint" "BSD_POWER_AMP:C_Disc_D8.0mm_W5.0mm_P10.00mm" (id 2) (at 87.63 119.6848 0)
       (effects (font (size 1.27 1.27)) hide)
     )
