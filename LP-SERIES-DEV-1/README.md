@@ -1,6 +1,6 @@
-# 1300 Watts RMS Class-TD Audio Power Amplifier For 4-Ohms Loudspeaker
+# 290 Watts RMS Class-H Audio Power Amplifier For 4-Ohms Loudspeaker
 
-This is development release 4 of class-TD (tracking digital) of "BSD POWER AMP"
-audio power amplifier design. This model designed to yield at about 1300 watts
-RMS for handling loudspeakers in 4-ohms impedance.
-
+This is "low power series" that may suitable for stage monitor, recording
+monitor, and/or for guitar amplifier with full-range loudspeaker. It applies
+class-H stepper to reduce power consumption and so will reduce heat of the
+output-stage power transistors.
