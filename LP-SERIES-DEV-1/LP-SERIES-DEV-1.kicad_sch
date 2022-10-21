@@ -598,22 +598,22 @@
       (reference "C401") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/56a4167d-0f3b-4627-96df-72bce112277c"
-      (reference "C402") (unit 1) (value "220pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (reference "C402") (unit 1) (value "220pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/bc9dcb77-bfe8-4993-afe8-03b36f4002cb"
       (reference "C403") (unit 1) (value "220uF") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/4299e76d-d7f0-44ed-a8ce-28f26c28e5f0"
-      (reference "C404") (unit 1) (value "33pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (reference "C404") (unit 1) (value "33pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e370dfcc-9f76-4e9f-b804-37aa2ef1a112"
-      (reference "C405") (unit 1) (value "82pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (reference "C405") (unit 1) (value "82pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/2ace00b3-c126-4614-a1e2-0667b944b87f"
       (reference "C406") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/3d668fec-8963-49bb-b89d-8cbcb81b8205"
-      (reference "C407") (unit 1) (value "82pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (reference "C407") (unit 1) (value "82pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c359ed99-6169-4022-97ef-b968f2f253cd"
       (reference "C408") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Rect_L10.0mm_W2.5mm_P7.50mm_MKS4")
@@ -712,7 +712,7 @@
       (reference "D416") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c0acffa5-e6ad-48e0-9180-4daaf02fca73"
-      (reference "D501") (unit 1) (value "1N4736") (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (reference "D501") (unit 1) (value "1N4736") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/a0666a3a-1c39-434b-9bdd-8e04069fce1a"
       (reference "D502") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
@@ -721,7 +721,7 @@
       (reference "D503") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:TO-220-2_Vertical_STD")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/ea7b1de8-a334-4618-8fdd-4f572e320fca"
-      (reference "D504") (unit 1) (value "1N4749") (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (reference "D504") (unit 1) (value "1N4749") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/438c6100-7e53-4d78-9d89-58352b392b63"
       (reference "D505") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp")
@@ -730,10 +730,10 @@
       (reference "D506") (unit 1) (value "1N4007") (footprint "BSD_POWER_AMP:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/59a4e75b-0d70-48a5-88b6-c6d2bb0f000f"
-      (reference "D507") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (reference "D507") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/94896006-57e2-4a4e-b539-77e9e244957e"
-      (reference "D601") (unit 1) (value "1N4736") (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (reference "D601") (unit 1) (value "1N4736") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/0fdc30b6-25ca-4d63-85c3-e2f95df3c647"
       (reference "D602") (unit 1) (value "BAV21") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
@@ -742,10 +742,10 @@
       (reference "D603") (unit 1) (value "MURF1560") (footprint "BSD_POWER_AMP:TO-220-2_Vertical_STD")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/fd6fc485-cc61-43cc-98c8-73200bb66195"
-      (reference "D604") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (reference "D604") (unit 1) (value "1N4742") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/9117182d-94eb-4a38-8144-c06e08c9685e"
-      (reference "D701") (unit 1) (value "1N4753") (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (reference "D701") (unit 1) (value "1N4753") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e61d2d95-26bd-4713-8fbd-06c911a60d20"
       (reference "L401") (unit 1) (value "1uH") (footprint "BSD_POWER_AMP:INDUCTOR_AIR_CORE_3uH_D600mils_L750mils")
@@ -823,7 +823,7 @@
       (reference "R403") (unit 1) (value "12k") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e5cda7a1-7af2-484d-a18c-25e580c368ef"
-      (reference "R405") (unit 1) (value "10") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+      (reference "R405") (unit 1) (value "10") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/afd6c276-f402-404a-a03c-208889f2cdf4"
       (reference "R406") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")

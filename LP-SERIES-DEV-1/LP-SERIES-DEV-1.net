@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/heru-aam/Documents/EDA/POWER-AMP-DESIGN/LP-SERIES-DEV-1/LP-SERIES-DEV-1.kicad_sch")
-    (date "Fri 21 Oct 2022 02:59:04 PM WIB")
+    (date "Sat 22 Oct 2022 04:31:34 AM WIB")
     (tool "Eeschema 6.0.8-1.fc36")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -112,7 +112,7 @@
       (tstamps "727ec9a3-9607-4c16-b058-aa12a4b92ad2"))
     (comp (ref "C402")
       (value "220pF")
-      (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "") (part "C_5") (description "Unpolarized capacitor"))
@@ -134,7 +134,7 @@
       (tstamps "bc9dcb77-bfe8-4993-afe8-03b36f4002cb"))
     (comp (ref "C404")
       (value "33pF")
-      (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
       (fields
         (field (name "Voltage") "50V"))
       (libsource (lib "") (part "C_5") (description "Unpolarized capacitor"))
@@ -145,7 +145,7 @@
       (tstamps "4299e76d-d7f0-44ed-a8ce-28f26c28e5f0"))
     (comp (ref "C405")
       (value "82pF")
-      (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "") (part "C_4") (description "Unpolarized capacitor"))
@@ -167,7 +167,7 @@
       (tstamps "2ace00b3-c126-4614-a1e2-0667b944b87f"))
     (comp (ref "C407")
       (value "82pF")
-      (footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm")
+      (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
       (fields
         (field (name "Voltage") "250V"))
       (libsource (lib "") (part "C_4") (description "Unpolarized capacitor"))
@@ -666,7 +666,7 @@
       (tstamps "e0ff72d6-d15e-4c7b-ba3c-e7c2e1fe0ccf"))
     (comp (ref "D501")
       (value "1N4736")
-      (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4736")
@@ -717,7 +717,7 @@
       (tstamps "a7eeaee2-920a-4115-8e8c-cfab851acfa5"))
     (comp (ref "D504")
       (value "1N4749")
-      (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4749")
@@ -768,7 +768,7 @@
       (tstamps "51126641-2490-4ad3-a320-f68484f7d2d7"))
     (comp (ref "D507")
       (value "1N4742")
-      (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4742")
@@ -785,7 +785,7 @@
       (tstamps "59a4e75b-0d70-48a5-88b6-c6d2bb0f000f"))
     (comp (ref "D601")
       (value "1N4736")
-      (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4736")
@@ -836,7 +836,7 @@
       (tstamps "e1ad6d27-7820-484e-8108-04567216a9fd"))
     (comp (ref "D604")
       (value "1N4742")
-      (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4742")
@@ -853,7 +853,7 @@
       (tstamps "fd6fc485-cc61-43cc-98c8-73200bb66195"))
     (comp (ref "D701")
       (value "1N4753")
-      (footprint "BSD_POWER_AMP:D_T-1_P2.54mm_Vertical_KathodeUp")
+      (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
       (fields
         (field (name "Spice_Lib_File") "spice_models/model.lib")
         (field (name "Spice_Model") "1N4753")
@@ -1268,7 +1268,7 @@
       (tstamps "197ac68b-ed8f-4043-abd9-ea232d082a05"))
     (comp (ref "R405")
       (value "10")
-      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
       (fields
         (field (name "Wattage") "0.25W"))
       (libsource (lib "") (part "R_46") (description "Resistor"))
@@ -1337,7 +1337,7 @@
       (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
       (fields
         (field (name "Wattage") "0.25W"))
-      (libsource (lib "") (part "R_32") (description "Resistor"))
+      (libsource (lib "") (part "R_6") (description "Resistor"))
       (property (name "Wattage") (value "0.25W"))
       (property (name "Sheetname") (value "POWER-AMP"))
       (property (name "Sheetfile") (value "File: POWER-AMP-BLOCK.kicad_sch"))
@@ -1348,7 +1348,7 @@
       (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical")
       (fields
         (field (name "Wattage") "0.5W"))
-      (libsource (lib "") (part "R_18") (description "Resistor"))
+      (libsource (lib "") (part "R_5") (description "Resistor"))
       (property (name "Wattage") (value "0.5W"))
       (property (name "Sheetname") (value "POWER-AMP"))
       (property (name "Sheetfile") (value "File: POWER-AMP-BLOCK.kicad_sch"))
@@ -1381,7 +1381,7 @@
       (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
       (fields
         (field (name "Wattage") "0.25W"))
-      (libsource (lib "") (part "R_32") (description "Resistor"))
+      (libsource (lib "") (part "R_2") (description "Resistor"))
       (property (name "Wattage") (value "0.25W"))
       (property (name "Sheetname") (value "POWER-AMP"))
       (property (name "Sheetfile") (value "File: POWER-AMP-BLOCK.kicad_sch"))
@@ -1988,6 +1988,18 @@
       (pins
         (pin (num "1") (name "") (type "passive"))
         (pin (num "2") (name "") (type "passive"))))
+    (libpart (lib "") (part "R_2")
+      (description "Resistor")
+      (docs "~")
+      (footprints
+        (fp "R_*"))
+      (fields
+        (field (name "Reference") "R")
+        (field (name "Value") "R_2")
+        (field (name "Datasheet") "~"))
+      (pins
+        (pin (num "1") (name "") (type "passive"))
+        (pin (num "2") (name "") (type "passive"))))
     (libpart (lib "") (part "R_28")
       (description "Resistor")
       (docs "~")
@@ -2164,6 +2176,30 @@
       (fields
         (field (name "Reference") "R")
         (field (name "Value") "R_46")
+        (field (name "Datasheet") "~"))
+      (pins
+        (pin (num "1") (name "") (type "passive"))
+        (pin (num "2") (name "") (type "passive"))))
+    (libpart (lib "") (part "R_5")
+      (description "Resistor")
+      (docs "~")
+      (footprints
+        (fp "R_*"))
+      (fields
+        (field (name "Reference") "R")
+        (field (name "Value") "R_5")
+        (field (name "Datasheet") "~"))
+      (pins
+        (pin (num "1") (name "") (type "passive"))
+        (pin (num "2") (name "") (type "passive"))))
+    (libpart (lib "") (part "R_6")
+      (description "Resistor")
+      (docs "~")
+      (footprints
+        (fp "R_*"))
+      (fields
+        (field (name "Reference") "R")
+        (field (name "Value") "R_6")
         (field (name "Datasheet") "~"))
       (pins
         (pin (num "1") (name "") (type "passive"))
@@ -2384,7 +2420,7 @@
       (uri "/usr/share/kicad/symbols//pspice.kicad_sym")))
   (nets
     (net (code "1") (name "+15V")
-      (node (ref "CNT402") (pin "3") (pinfunction "Pin_3") (pintype "passive"))
+      (node (ref "CNT402") (pin "1") (pinfunction "Pin_1") (pintype "passive"))
       (node (ref "U401") (pin "7") (pinfunction "V+") (pintype "power_in"))
       (node (ref "V104") (pin "1") (pinfunction "E1") (pintype "input")))
     (net (code "2") (name "+24V")
@@ -2408,7 +2444,7 @@
       (node (ref "V102") (pin "1") (pinfunction "E1") (pintype "input"))
       (node (ref "XQ501") (pin "1") (pinfunction "D") (pintype "passive")))
     (net (code "4") (name "-15V")
-      (node (ref "CNT402") (pin "1") (pinfunction "Pin_1") (pintype "passive"))
+      (node (ref "CNT402") (pin "3") (pinfunction "Pin_3") (pintype "passive"))
       (node (ref "U401") (pin "4") (pinfunction "V-") (pintype "power_in"))
       (node (ref "V105") (pin "2") (pinfunction "E2") (pintype "input")))
     (net (code "5") (name "-24V")
@@ -2573,7 +2609,7 @@
       (node (ref "D414") (pin "1") (pinfunction "A") (pintype "passive")))
     (net (code "33") (name "Net-(D412-Pad2)")
       (node (ref "D412") (pin "2") (pinfunction "K") (pintype "passive"))
-      (node (ref "R415") (pin "2") (pintype "passive")))
+      (node (ref "R415") (pin "1") (pintype "passive")))
     (net (code "34") (name "Net-(D413-Pad1)")
       (node (ref "C407") (pin "2") (pintype "passive"))
       (node (ref "D413") (pin "1") (pinfunction "A") (pintype "passive"))
@@ -2692,20 +2728,20 @@
     (net (code "64") (name "VASGCTLN")
       (node (ref "D414") (pin "2") (pinfunction "K") (pintype "passive"))
       (node (ref "Q405") (pin "3") (pinfunction "E") (pintype "passive"))
-      (node (ref "R415") (pin "1") (pintype "passive"))
-      (node (ref "R416") (pin "2") (pintype "passive")))
+      (node (ref "R415") (pin "2") (pintype "passive"))
+      (node (ref "R416") (pin "1") (pintype "passive")))
     (net (code "65") (name "VASGCTLP")
       (node (ref "D411") (pin "1") (pinfunction "A") (pintype "passive"))
       (node (ref "Q403") (pin "3") (pinfunction "E") (pintype "passive"))
       (node (ref "R411") (pin "1") (pintype "passive"))
-      (node (ref "R412") (pin "1") (pintype "passive")))
+      (node (ref "R412") (pin "2") (pintype "passive")))
     (net (code "66") (name "VASN")
       (node (ref "C406") (pin "2") (pintype "passive"))
       (node (ref "C407") (pin "1") (pintype "passive"))
       (node (ref "Q406") (pin "1") (pinfunction "C") (pintype "passive"))
       (node (ref "Q407") (pin "1") (pinfunction "C") (pintype "passive"))
       (node (ref "Q409") (pin "2") (pinfunction "B") (pintype "input"))
-      (node (ref "R416") (pin "1") (pintype "passive"))
+      (node (ref "R416") (pin "2") (pintype "passive"))
       (node (ref "R419") (pin "2") (pintype "passive")))
     (net (code "67") (name "VASP")
       (node (ref "C405") (pin "1") (pintype "passive"))
@@ -2713,7 +2749,7 @@
       (node (ref "Q404") (pin "1") (pinfunction "C") (pintype "passive"))
       (node (ref "Q407") (pin "3") (pinfunction "E") (pintype "passive"))
       (node (ref "Q408") (pin "2") (pinfunction "B") (pintype "input"))
-      (node (ref "R412") (pin "2") (pintype "passive"))
+      (node (ref "R412") (pin "1") (pintype "passive"))
       (node (ref "R420") (pin "1") (pintype "passive"))
       (node (ref "R422") (pin "1") (pintype "passive"))
       (node (ref "RT401") (pin "1") (pintype "passive")))
