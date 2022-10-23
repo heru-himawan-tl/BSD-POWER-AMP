@@ -601,7 +601,7 @@
       (reference "C402") (unit 1) (value "220pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/bc9dcb77-bfe8-4993-afe8-03b36f4002cb"
-      (reference "C403") (unit 1) (value "220uF") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+      (reference "C403") (unit 1) (value "220uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/4299e76d-d7f0-44ed-a8ce-28f26c28e5f0"
       (reference "C404") (unit 1) (value "33pF") (footprint "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm")
@@ -631,7 +631,7 @@
       (reference "C412") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f80388ec-d01b-4c60-b867-66fa57e22d58"
-      (reference "C501") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+      (reference "C501") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/f54859bf-6051-48a1-ae61-3f1ef0e0f4ef"
       (reference "CNT401") (unit 1) (value "Molex AE-6410-02A") (footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical")
@@ -748,7 +748,7 @@
       (reference "D701") (unit 1) (value "1N4753") (footprint "BSD_POWER_AMP:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/e61d2d95-26bd-4713-8fbd-06c911a60d20"
-      (reference "L401") (unit 1) (value "1uH") (footprint "BSD_POWER_AMP:INDUCTOR_AIR_CORE_3uH_D600mils_L750mils")
+      (reference "L401") (unit 1) (value "1uH") (footprint "BSD_POWER_AMP:INDUCTOR_AIR_CORE_1uH")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/c48c024c-2049-4818-817d-cfceeddd26ed"
       (reference "Q401") (unit 1) (value "MJE350") (footprint "BSD_POWER_AMP:TO-126-3_Vertical_STD")
@@ -949,7 +949,7 @@
       (reference "R4042") (unit 1) (value "3.9k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
     )
     (path "/509e0e98-88fd-4957-a042-f4988c1fb8d0/6e9c90ef-0de5-4e1e-bfc1-825ba79f8ebf"
-      (reference "RT401") (unit 1) (value "5k") (footprint "Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical")
+      (reference "RT401") (unit 1) (value "5k") (footprint "BSD_POWER_AMP:Potentiometer_Runtron_RM-065_Vertical_STD")
     )
     (path "/d2eb7c98-81d2-46fd-aa5c-85ca06e5ef0a"
       (reference "R_GND1") (unit 1) (value "1") (footprint "")

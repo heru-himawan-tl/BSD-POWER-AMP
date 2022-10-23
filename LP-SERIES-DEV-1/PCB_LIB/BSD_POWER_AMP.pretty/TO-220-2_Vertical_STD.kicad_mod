@@ -34,8 +34,8 @@
   (fp_line (start -2.46 -3.15) (end -2.46 1.25) (layer "F.Fab") (width 0.1) (tstamp 9d54f211-6147-496b-a193-6f1fadb75215))
   (fp_line (start -2.46 1.25) (end 7.54 1.25) (layer "F.Fab") (width 0.1) (tstamp d81dc13d-67cf-40e9-b815-c3945a3c3fcc))
   (fp_line (start 7.54 -3.15) (end -2.46 -3.15) (layer "F.Fab") (width 0.1) (tstamp da2a2c7d-45c8-4fd3-916c-9c9467eed444))
-  (pad "1" thru_hole rect (at 0 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 3aaadaac-6d80-41df-ace3-c438dd94aba7))
-  (pad "2" thru_hole oval (at 5.08 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 89f7f9cf-ad75-47d1-833c-df0478663dd2))
+  (pad "1" thru_hole oval (at 5.08 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 89f7f9cf-ad75-47d1-833c-df0478663dd2))
+  (pad "2" thru_hole rect (at 0 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 3aaadaac-6d80-41df-ace3-c438dd94aba7))
   (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-2_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
