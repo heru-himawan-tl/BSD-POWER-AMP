@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "BSD_POWER_AMP")(type "KiCad")(uri "${KIPRJMOD}/PCB_LIB/BSD_POWER_AMP.pretty")(options "")(descr ""))
-)
