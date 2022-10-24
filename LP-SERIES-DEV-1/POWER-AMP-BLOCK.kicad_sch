@@ -6,7 +6,7 @@
 
   (title_block
     (title "290 WATTS RMS CLASS-H\\nAUDIO POWER AMPLIFIER\\nFOR 4-OHMS LOUDSPEAKER")
-    (date "2022-10-23")
+    (date "2022-10-24")
     (company "BSD POWER AMP")
   )
 
@@ -3506,6 +3506,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 678476f3-3508-4c0a-8e54-8d53ead18f52)
   )
+  (polyline (pts (xy 186.69 124.46) (xy 194.31 124.46))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 684e587e-e4bb-4793-aade-276ad410df93)
+  )
   (polyline (pts (xy 52.07 57.15) (xy 62.23 57.15))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid 693daaa5-031d-4aab-a1de-a117b73b00cb)
@@ -4028,6 +4032,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid b86136d6-eece-42ad-a25a-28981f20e6fa)
   )
+  (polyline (pts (xy 186.69 121.92) (xy 194.31 121.92))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid b89caf3b-297b-4bff-bad3-7a7bd7bddac9)
+  )
+
   (wire (pts (xy 88.9 184.15) (xy 114.3 184.15))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid b8e16d5b-d6eb-4676-9b39-ca9651bde7a8)
@@ -4061,6 +4070,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid bbf52634-060d-4f7b-944a-9cb93c674471)
   )
+  (polyline (pts (xy 186.69 121.92) (xy 186.69 124.46))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid bc3a7495-5748-4183-a459-e3ddcb7308ce)
+  )
+
   (wire (pts (xy 273.05 107.95) (xy 285.75 107.95))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid bc665e31-07b4-4744-9c4b-6f5078764311)
@@ -4220,6 +4234,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid d3a01854-ae9e-494d-9f50-dd7768cada06)
   )
+  (polyline (pts (xy 194.31 124.46) (xy 194.31 121.92))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid d4265ada-0bcb-4ac0-b4ca-f335a6d08ce7)
+  )
+
   (wire (pts (xy 177.8 201.93) (xy 177.8 203.2))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid d4c8287e-234c-4d6d-be7c-209bfffb96a8)
