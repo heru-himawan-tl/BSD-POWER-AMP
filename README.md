@@ -1,4 +1,4 @@
-The BSD POWER AMP project repository on GITHUB has been moved into GITLAB
+The BSD POWER AMP project repository on GITHUB was moved into GITLAB
 at Monday, October 24, 2022.
 
 Please follow the new URL of BSD POWER AMP project repository:
